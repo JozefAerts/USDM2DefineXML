@@ -1,0 +1,1 @@
+Study does not have a (short) name => Exception

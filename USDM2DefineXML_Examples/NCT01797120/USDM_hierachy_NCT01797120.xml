@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Study id="Study_60" name="NCT01797120"
+    label="Study of Fulvestrant +/- Everolimus in Post-Menopausal, Hormone-Receptor + Metastatic Breast Ca Resistant to AI">
+    <StudyVersion id="StudyVersion_1" versionIdentifier="1">
+        <StudyIdentifier id="StudyIdentifier_1" text="PrE0102"/>
+        <StudyDesign id="InterventionalStudyDesign_1" name="PrE0102">
+            <!-- ================================================= -->
+            <!-- STUDY POPULATION -->
+            <!-- ================================================= -->
+            <Population id="StudyDesignPopulation_1">
+                <IncludesHealthySubjects>false</IncludesHealthySubjects>
+            </Population>
+            <!-- ================================================= -->
+            <!-- ARMS -->
+            <!-- ================================================= -->
+            <Arms>
+                <Arm id="StudyArm_1" name="ARM A" label="Fulvestrant + Everolimus"
+                    type="Experimental Arm">
+                    <Description> Fulvestrant 500mg IM Q28D (loading D1/D15) + Everolimus 10mg PO QD
+                    </Description>
+                </Arm>
+                <Arm id="StudyArm_2" name="ARM B" label="Fulvestrant + Placebo"
+                    type="Placebo Comparator Arm">
+                    <Description> Fulvestrant 500mg IM Q28D (loading D1/D15) + Placebo PO QD
+                    </Description>
+                </Arm>
+            </Arms>
+            <!-- ================================================= -->
+            <!-- STUDY EPOCHS -->
+            <!-- ================================================= -->
+            <Epochs>
+                <Epoch id="StudyEpoch_1" name="Pre-Study Phase" label="Pre-Study Phase"
+                    type="SCREENING"/>
+                <Epoch id="StudyEpoch_2" name="Induction Phase" label="Induction Phase"
+                    type="TREATMENT"/>
+                <Epoch id="StudyEpoch_4" name="Continuation Phase" label="Continuation Phase"
+                    type="CONTINUATION TREATMENT"/>
+                <Epoch id="StudyEpoch_3" name="Follow-up Off Therapy" label="Follow-up, off therapy"
+                    type="FOLLOW-UP"/>
+            </Epochs>
+            <!-- ================================================= -->
+            <!-- STUDY ELEMENTS -->
+            <!-- ================================================= -->
+            <Elements>
+                <Element id="StudyElement_1" name="SCREENING_ELEMENT" label="Screening"
+                    epochRef="StudyEpoch_1"/>
+                <Element id="StudyElement_2" name="INDUCTION_EVE_FUL"
+                    label="Induction: Fulvestrant + Everolimus" epochRef="StudyEpoch_2"
+                    armRef="StudyArm_1">
+                    <Description> Fulvestrant 500 mg IM plus everolimus 10 mg PO daily, 28-day
+                        cycles, maximum 12 cycles. </Description>
+                </Element>
+                <Element id="StudyElement_3" name="INDUCTION_PBO_FUL"
+                    label="Induction: Fulvestrant + Placebo" epochRef="StudyEpoch_2"
+                    armRef="StudyArm_2">
+                    <Description> Fulvestrant 500 mg IM plus placebo PO daily, 28-day cycles,
+                        maximum 12 cycles. </Description>
+                </Element>
+                <Element id="StudyElement_4" name="CONTINUATION_EVE_FUL"
+                    label="Continuation: Fulvestrant + Everolimus" epochRef="StudyEpoch_4"
+                    armRef="StudyArm_1"/>
+                <Element id="StudyElement_5" name="CONTINUATION_FUL"
+                    label="Continuation: Fulvestrant alone" epochRef="StudyEpoch_4"
+                    armRef="StudyArm_2"/>
+                <Element id="StudyElement_6" name="FOLLOW_UP_ELEMENT" label="Follow-Up Off-Therapy"
+                    epochRef="StudyEpoch_3"/>
+            </Elements>
+            <!-- ================================================= -->
+            <!-- ARM / EPOCH RELATIONSHIPS -->
+            <!-- ================================================= -->
+            <StudyCells>
+                <StudyCell id="StudyCell_1" armRef="StudyArm_1" epochRef="StudyEpoch_1"
+                    elementRef="StudyElement_1"/>
+                <StudyCell id="StudyCell_2" armRef="StudyArm_1" epochRef="StudyEpoch_2"
+                    elementRef="StudyElement_2"/>
+                <StudyCell id="StudyCell_7" armRef="StudyArm_1" epochRef="StudyEpoch_4"
+                    elementRef="StudyElement_4"/>
+                <StudyCell id="StudyCell_8" armRef="StudyArm_1" epochRef="StudyEpoch_3"
+                    elementRef="StudyElement_6"/>
+                <StudyCell id="StudyCell_9" armRef="StudyArm_2" epochRef="StudyEpoch_1"
+                    elementRef="StudyElement_1"/>
+                <StudyCell id="StudyCell_10" armRef="StudyArm_2" epochRef="StudyEpoch_2"
+                    elementRef="StudyElement_3"/>
+                <StudyCell id="StudyCell_11" armRef="StudyArm_2" epochRef="StudyEpoch_4"
+                    elementRef="StudyElement_5"/>
+                <StudyCell id="StudyCell_12" armRef="StudyArm_2" epochRef="StudyEpoch_3"
+                    elementRef="StudyElement_6"/>
+            </StudyCells>
+            <!-- ================================================= -->
+            <!-- ENCOUNTERS / VISITS -->
+            <!-- ================================================= -->
+            <Encounters>
+                <Encounter id="Encounter_1" name="PRE-STUDY" label="Pre-Study"
+                    epochRef="StudyEpoch_1"/>
+                <Encounter id="Encounter_2" name="C1D1" label="Cycle 1 Day 1"
+                    epochRef="StudyEpoch_2"/>
+                <Encounter id="Encounter_3" name="C1D15" label="Cycle 1 Day 15"
+                    epochRef="StudyEpoch_2"/>
+                <Encounter id="Encounter_4" name="C2D1" label="Cycle 2 Day 1"
+                    epochRef="StudyEpoch_2"/>
+                <Encounter id="Encounter_5" name="C3D1" label="Cycle 3 Day 1"
+                    epochRef="StudyEpoch_2"/>
+                <Encounter id="Encounter_6" name="C4D1" label="Cycle 4 Day 1"
+                    epochRef="StudyEpoch_2"/>
+                <!-- ... C5D1 through C12D1 ... -->
+                <Encounter id="Encounter_15" name="EOI" label="End of Induction / End of Treatment"
+                    epochRef="StudyEpoch_2"/>
+                <Encounter id="Encounter_16" name="CONT" label="Continuation Phase Cycle Day 1"
+                    epochRef="StudyEpoch_4"/>
+                <Encounter id="Encounter_17" name="FU" label="Follow-Up Off-Therapy"
+                    epochRef="StudyEpoch_3"/>
+            </Encounters>
+            <!-- ================================================= -->
+            <!-- ACTIVITIES -->
+            <!-- ================================================= -->
+            <Activities>
+                <Activity id="Activity_2" name="ELIGIBILITY ASSESSMENT"
+                    label="Eligibility Assessment"/>
+                <Activity id="Activity_1" name="INFORMED CONSENT" label="Informed Consent"/>
+                <Activity id="Activity_19" name="RANDOMIZATION" label="Randomization"/>
+                <Activity id="Activity_3" name="MEDICAL HISTORY" label="Medical History"/>
+                <Activity id="Activity_5" name="PHYSICAL EXAM" label="Physical Examination"/>
+                <Activity id="Activity_18" name="CONCOMITANT MEDS" label="Concomitant Medications"/>
+                <Activity id="Activity_6" name="VITAL SIGNS" label="Vital Signs"/>
+                <Activity id="Activity_25" name="GLUCOSE" label="Fasting Glucose"/>
+                <Activity id="Activity_26" name="LIPID PROFILE" label="Fasting serum Lipid Profile"/>
+                <Activity id="Activity_30" name="COMPLIANCE"
+                    label="Study Drug Compliance (Pill Diary)"/>
+                <Activity id="Activity_31" name="PFTS" label="PFTs with DLCO as medically indicated"
+                />
+            </Activities>
+            <!-- ================================================= -->
+            <!-- SCHEDULE TIMELINE -->
+            <!-- ================================================= -->
+            <ScheduleTimeline id="ScheduleTimeline_1" name="MAIN_TIMELINE"
+                label="PrE0102 Main Schedule of Activities Timeline" mainTimeline="true">
+                <Timing id="Timing_2" name="SCREEN_WINDOW" label="Within 4 weeks before C1D1"
+                    value="P28D" relation="Before"/>
+                <Timing id="Timing_1" name="C1D1_ANCHOR" label="Cycle 1 Day 1 (anchor)" value="P0D"
+                    relation="Fixed Reference"/>
+                <Timing id="Timing_3" name="C1D15_OFFSET" label="14 days after C1D1" value="P14D"
+                    relation="After"/>
+                <Timing id="Timing_4" name="C2D1_OFFSET" label="Cycle 2 Day 1" value="P28D"
+                    relation="After"/>
+                <!-- subsequent cycle timings -->
+            </ScheduleTimeline>
+            <!-- ================================================= -->
+            <!-- SCHEDULED ACTIVITIES -->
+            <!-- ================================================= -->
+            <ScheduledActivities>
+                <ScheduledActivity id="ScheduledActivityInstance_1" name="SAI_PRE_STUDY"
+                    encounterRef="Encounter_1" epochRef="StudyEpoch_1"/>
+                <ScheduledActivity id="ScheduledActivityInstance_2" name="SAI_C1D1"
+                    label="Cycle 1 Day 1" encounterRef="Encounter_2" epochRef="StudyEpoch_2"/>
+                <ScheduledActivity id="ScheduledActivityInstance_3" name="SAI_C1D15"
+                    label="Cycle 1 Day 15" encounterRef="Encounter_3" epochRef="StudyEpoch_2"/>
+                <ScheduledActivity id="ScheduledActivityInstance_4" name="SAI_C2D1"
+                    label="Cycle 2 Day 1" encounterRef="Encounter_4" epochRef="StudyEpoch_2"/>
+                <!-- ... -->
+                <ScheduledActivity id="ScheduledActivityInstance_15" name="SAI_EOI"
+                    label="End of Induction / End of Treatment" encounterRef="Encounter_15"
+                    epochRef="StudyEpoch_2"/>
+                <ScheduledActivity id="ScheduledActivityInstance_16" name="SAI_CONT"
+                    label="Continuation Phase Cycle Day 1" encounterRef="Encounter_16"
+                    epochRef="StudyEpoch_4"/>
+                <ScheduledActivity id="ScheduledActivityInstance_17" name="SAI_FU"
+                    label="Follow-Up Off-Therapy" encounterRef="Encounter_17"
+                    epochRef="StudyEpoch_3"/>
+            </ScheduledActivities>
+            <!-- ================================================= -->
+            <!-- DECISION POINT -->
+            <!-- ================================================= -->
+            <Decision id="ScheduledDecisionInstance_1" name="SDI_END_INDUCTION"
+                label="Decision: End of Induction (unblinding)">
+                <Condition id="Condition_1" targetRef="ScheduledActivityInstance_16"> No evidence of
+                    disease progression after 12 cycles: proceed to Continuation Phase. </Condition>
+                <Condition id="Condition_2" targetRef="ScheduledActivityInstance_17"> Disease
+                    progression or unacceptable toxicity: proceed to Follow-Up Off-Therapy.
+                </Condition>
+            </Decision>
+            <!-- ================================================= -->
+            <!-- INTERVENTIONS -->
+            <!-- ================================================= -->
+            <Interventions>
+                <Intervention id="StudyIntervention_3" name="Fulvestrant + Everolimus"
+                    label="Fulvestrant + Everolimus"/>
+                <Intervention id="StudyIntervention_4" name="Fulvestrant + Placebo"
+                    label="Fulvestrant + Placebo"/>
+                <Intervention id="StudyIntervention_5" name="Fulvestrant" label="Fulvestrant"/>
+            </Interventions>
+            <!-- ================================================= -->
+            <!-- BIOMEDICAL CONCEPTS -->
+            <!-- ================================================= -->
+            <BiomedicalConcepts>
+                <BiomedicalConcept id="BiomedicalConcept_1" name="Informed Consent"
+                    reference="/mdr/bc/biomedicalconcepts/C16735"/>
+                <BiomedicalConcept id="BiomedicalConcept_2"
+                    name="Eligibility Criteria Met By Subject"
+                    reference="/mdr/bc/biomedicalconcepts/C132447"/>
+                <!-- ... additional biomedical concepts ... -->
+            </BiomedicalConcepts>
+        </StudyDesign>
+    </StudyVersion>
+</Study>

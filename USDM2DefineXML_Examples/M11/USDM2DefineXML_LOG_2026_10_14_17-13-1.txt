@@ -1,0 +1,1729 @@
+2026-10-14 17:13:37,371 INFO  Starting retrieving activities from USDM file = D:\CDISC_Standards\USDM2DefineXML\M11\m11.json
+2026-10-14 17:13:37,398 INFO  # activities = 36
+2026-10-14 17:13:37,416 INFO  found BC = BiomedicalConcept_20
+2026-10-14 17:13:37,416 INFO  found BC = BiomedicalConcept_21
+2026-10-14 17:13:37,416 INFO  found BC = BiomedicalConcept_22
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_23
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_24
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_25
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_26
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_27
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_28
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_29
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_30
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_31
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_32
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_1
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_2
+2026-10-14 17:13:37,417 INFO  found BC = BiomedicalConcept_3
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_4
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_5
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_6
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_7
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_8
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_9
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_10
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_11
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_12
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_13
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_14
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_15
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_16
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_17
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_18
+2026-10-14 17:13:37,418 INFO  found BC = BiomedicalConcept_19
+2026-10-14 17:13:37,418 INFO  Activity id = Activity_1 - label = Informed consent - description = 
+2026-10-14 17:13:37,418 INFO  Activity id = Activity_2 - label = Inclusion and exclusion criteria - description = 
+2026-10-14 17:13:37,418 INFO  Activity id = Activity_3 - label = Patient number assigned - description = 
+2026-10-14 17:13:37,418 INFO  Activity id = Activity_4 - label = Demographics - description = 
+2026-10-14 17:13:37,418 INFO  Biomedical Concept: BiomedicalConcept_20 / Sex
+2026-10-14 17:13:37,418 INFO  Biomedical Concept reference = /mdr/bc/packages/2023-03-31/biomedicalconcepts/C28421
+2026-10-14 17:13:37,418 INFO  Property ID: BiomedicalConceptProperty_116
+2026-10-14 17:13:37,419 INFO  Property name: Sex
+2026-10-14 17:13:37,419 INFO  datatype = string
+2026-10-14 17:13:37,419 INFO  # of response codes = 2
+2026-10-14 17:13:37,419 INFO  codeValue = C20197
+2026-10-14 17:13:37,419 INFO  codeValue = C16576
+2026-10-14 17:13:37,419 INFO  Biomedical Concept: BiomedicalConcept_21 / Race
+2026-10-14 17:13:37,419 INFO  Biomedical Concept reference = /mdr/bc/packages/2023-03-31/biomedicalconcepts/C17049
+2026-10-14 17:13:37,419 INFO  Property ID: BiomedicalConceptProperty_117
+2026-10-14 17:13:37,419 INFO  Property name: Race
+2026-10-14 17:13:37,419 INFO  datatype = string
+2026-10-14 17:13:37,419 INFO  Activity id = Activity_5 - label = Hachinski Ischemic Scale - description = 
+2026-10-14 17:13:37,419 INFO  Activity id = Activity_6 - label = MMSE - description = 
+2026-10-14 17:13:37,419 INFO  Activity id = Activity_7 - label = Physical examination - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_8 - label = Medical history - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_9 - label = Habits - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_10 - label = Chest X-ray - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_11 - label = Apo E genotyping - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_12 - label = Patient randomised - description = 
+2026-10-14 17:13:37,420 INFO  Activity id = Activity_13 - label = Vital Signs and Temperature - description = 
+2026-10-14 17:13:37,420 INFO  Biomedical Concept: BiomedicalConcept_22 / Temperature
+2026-10-14 17:13:37,420 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/TEMP
+2026-10-14 17:13:37,420 INFO  Property ID: BiomedicalConceptProperty_118
+2026-10-14 17:13:37,420 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,420 INFO  datatype = 
+2026-10-14 17:13:37,420 INFO  Property ID: BiomedicalConceptProperty_119
+2026-10-14 17:13:37,420 INFO  Property name: VSORRES
+2026-10-14 17:13:37,420 INFO  datatype = float
+2026-10-14 17:13:37,421 INFO  Property ID: BiomedicalConceptProperty_120
+2026-10-14 17:13:37,421 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,421 INFO  datatype = 
+2026-10-14 17:13:37,421 INFO  # of response codes = 3
+2026-10-14 17:13:37,421 INFO  codeValue = C42559
+2026-10-14 17:13:37,421 INFO  codeValue = C44277
+2026-10-14 17:13:37,421 INFO  codeValue = C42537
+2026-10-14 17:13:37,421 INFO  Property ID: BiomedicalConceptProperty_121
+2026-10-14 17:13:37,421 INFO  Property name: VSLOC
+2026-10-14 17:13:37,421 INFO  datatype = 
+2026-10-14 17:13:37,421 INFO  # of response codes = 5
+2026-10-14 17:13:37,421 INFO  codeValue = C12674
+2026-10-14 17:13:37,421 INFO  codeValue = C12394
+2026-10-14 17:13:37,421 INFO  codeValue = C89803
+2026-10-14 17:13:37,422 INFO  codeValue = C12421
+2026-10-14 17:13:37,422 INFO  codeValue = C12390
+2026-10-14 17:13:37,422 INFO  Biomedical Concept: BiomedicalConcept_23 / Weight
+2026-10-14 17:13:37,422 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/WEIGHT
+2026-10-14 17:13:37,422 INFO  Property ID: BiomedicalConceptProperty_122
+2026-10-14 17:13:37,422 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,422 INFO  datatype = 
+2026-10-14 17:13:37,422 INFO  Property ID: BiomedicalConceptProperty_123
+2026-10-14 17:13:37,422 INFO  Property name: VSORRES
+2026-10-14 17:13:37,422 INFO  datatype = float
+2026-10-14 17:13:37,422 INFO  Property ID: BiomedicalConceptProperty_124
+2026-10-14 17:13:37,422 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,422 INFO  datatype = 
+2026-10-14 17:13:37,422 INFO  # of response codes = 3
+2026-10-14 17:13:37,422 INFO  codeValue = C48531
+2026-10-14 17:13:37,422 INFO  codeValue = C48155
+2026-10-14 17:13:37,422 INFO  codeValue = C28252
+2026-10-14 17:13:37,423 INFO  Biomedical Concept: BiomedicalConcept_24 / Height
+2026-10-14 17:13:37,423 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/HEIGHT
+2026-10-14 17:13:37,423 INFO  Property ID: BiomedicalConceptProperty_125
+2026-10-14 17:13:37,423 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,423 INFO  datatype = 
+2026-10-14 17:13:37,423 INFO  Property ID: BiomedicalConceptProperty_126
+2026-10-14 17:13:37,423 INFO  Property name: VSORRES
+2026-10-14 17:13:37,423 INFO  datatype = float
+2026-10-14 17:13:37,423 INFO  Property ID: BiomedicalConceptProperty_127
+2026-10-14 17:13:37,423 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,423 INFO  datatype = 
+2026-10-14 17:13:37,423 INFO  # of response codes = 3
+2026-10-14 17:13:37,423 INFO  codeValue = C49668
+2026-10-14 17:13:37,423 INFO  codeValue = C48500
+2026-10-14 17:13:37,423 INFO  codeValue = C41139
+2026-10-14 17:13:37,423 INFO  Activity id = Activity_14 - label = Ambulatory ECG placed - description = 
+2026-10-14 17:13:37,423 INFO  Activity id = Activity_15 - label = Ambulatory ECG removed - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_16 - label = ECG - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_17 - label = Placebo TTS test - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_18 - label = CT scan - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_19 - label = Concomitant medications - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_20 - label = Hematology - description = 
+2026-10-14 17:13:37,424 INFO  Activity id = Activity_21 - label = Chemistry - description = 
+2026-10-14 17:13:37,424 INFO  Biomedical Concept: BiomedicalConcept_25 / Alanine Aminotransferase Concentration in Serum/Plasma
+2026-10-14 17:13:37,424 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-07-06/datasetspecializations/ALTSERPL
+2026-10-14 17:13:37,424 INFO  Property ID: BiomedicalConceptProperty_128
+2026-10-14 17:13:37,424 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,424 INFO  datatype = 
+2026-10-14 17:13:37,424 INFO  Property ID: BiomedicalConceptProperty_129
+2026-10-14 17:13:37,424 INFO  Property name: LBORRES
+2026-10-14 17:13:37,425 INFO  datatype = float
+2026-10-14 17:13:37,425 INFO  Property ID: BiomedicalConceptProperty_130
+2026-10-14 17:13:37,425 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,425 INFO  datatype = 
+2026-10-14 17:13:37,425 INFO  # of response codes = 4
+2026-10-14 17:13:37,425 INFO  codeValue = C67456
+2026-10-14 17:13:37,425 INFO  codeValue = C67397
+2026-10-14 17:13:37,425 INFO  codeValue = C67376
+2026-10-14 17:13:37,425 INFO  codeValue = C70510
+2026-10-14 17:13:37,425 INFO  Property ID: BiomedicalConceptProperty_131
+2026-10-14 17:13:37,425 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,425 INFO  datatype = 
+2026-10-14 17:13:37,425 INFO  Property ID: BiomedicalConceptProperty_132
+2026-10-14 17:13:37,425 INFO  Property name: LBFAST
+2026-10-14 17:13:37,425 INFO  datatype = 
+2026-10-14 17:13:37,425 INFO  # of response codes = 2
+2026-10-14 17:13:37,425 INFO  codeValue = C49487
+2026-10-14 17:13:37,425 INFO  codeValue = C49488
+2026-10-14 17:13:37,425 INFO  Biomedical Concept: BiomedicalConcept_26 / Albumin Presence in Urine
+2026-10-14 17:13:37,425 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/ALBURINPRES
+2026-10-14 17:13:37,425 INFO  Property ID: BiomedicalConceptProperty_133
+2026-10-14 17:13:37,425 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,425 INFO  datatype = 
+2026-10-14 17:13:37,425 INFO  Property ID: BiomedicalConceptProperty_134
+2026-10-14 17:13:37,426 INFO  Property name: LBORRES
+2026-10-14 17:13:37,426 INFO  datatype = text
+2026-10-14 17:13:37,426 INFO  Property ID: BiomedicalConceptProperty_135
+2026-10-14 17:13:37,426 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,426 INFO  datatype = 
+2026-10-14 17:13:37,426 INFO  Property ID: BiomedicalConceptProperty_136
+2026-10-14 17:13:37,426 INFO  Property name: LBFAST
+2026-10-14 17:13:37,426 INFO  datatype = 
+2026-10-14 17:13:37,426 INFO  # of response codes = 2
+2026-10-14 17:13:37,426 INFO  codeValue = C49487
+2026-10-14 17:13:37,426 INFO  codeValue = C49488
+2026-10-14 17:13:37,426 INFO  Biomedical Concept: BiomedicalConcept_27 / Alkaline Phosphatase Concentration in Serum/Plasma
+2026-10-14 17:13:37,426 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-07-06/datasetspecializations/ALPSERPL
+2026-10-14 17:13:37,426 INFO  Property ID: BiomedicalConceptProperty_137
+2026-10-14 17:13:37,426 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,426 INFO  datatype = 
+2026-10-14 17:13:37,426 INFO  Property ID: BiomedicalConceptProperty_138
+2026-10-14 17:13:37,426 INFO  Property name: LBORRES
+2026-10-14 17:13:37,426 INFO  datatype = float
+2026-10-14 17:13:37,426 INFO  Property ID: BiomedicalConceptProperty_139
+2026-10-14 17:13:37,426 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,426 INFO  datatype = 
+2026-10-14 17:13:37,426 INFO  # of response codes = 3
+2026-10-14 17:13:37,427 INFO  codeValue = C67456
+2026-10-14 17:13:37,427 INFO  codeValue = C67397
+2026-10-14 17:13:37,427 INFO  codeValue = C67376
+2026-10-14 17:13:37,427 INFO  Property ID: BiomedicalConceptProperty_140
+2026-10-14 17:13:37,427 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,427 INFO  datatype = 
+2026-10-14 17:13:37,427 INFO  Property ID: BiomedicalConceptProperty_141
+2026-10-14 17:13:37,427 INFO  Property name: LBFAST
+2026-10-14 17:13:37,427 INFO  datatype = 
+2026-10-14 17:13:37,427 INFO  # of response codes = 2
+2026-10-14 17:13:37,427 INFO  codeValue = C49487
+2026-10-14 17:13:37,427 INFO  codeValue = C49488
+2026-10-14 17:13:37,427 INFO  Biomedical Concept: BiomedicalConcept_28 / Aspartate Aminotransferase in Serum/Plasma
+2026-10-14 17:13:37,427 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-07-06/datasetspecializations/ASTSERPL
+2026-10-14 17:13:37,427 INFO  Property ID: BiomedicalConceptProperty_142
+2026-10-14 17:13:37,427 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,427 INFO  datatype = 
+2026-10-14 17:13:37,427 INFO  Property ID: BiomedicalConceptProperty_143
+2026-10-14 17:13:37,428 INFO  Property name: LBORRES
+2026-10-14 17:13:37,428 INFO  datatype = float
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_144
+2026-10-14 17:13:37,428 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,428 INFO  datatype = 
+2026-10-14 17:13:37,428 INFO  # of response codes = 3
+2026-10-14 17:13:37,428 INFO  codeValue = C67456
+2026-10-14 17:13:37,428 INFO  codeValue = C67397
+2026-10-14 17:13:37,428 INFO  codeValue = C67376
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_145
+2026-10-14 17:13:37,428 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,428 INFO  datatype = 
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_146
+2026-10-14 17:13:37,428 INFO  Property name: LBFAST
+2026-10-14 17:13:37,428 INFO  datatype = 
+2026-10-14 17:13:37,428 INFO  # of response codes = 2
+2026-10-14 17:13:37,428 INFO  codeValue = C49487
+2026-10-14 17:13:37,428 INFO  codeValue = C49488
+2026-10-14 17:13:37,428 INFO  Biomedical Concept: BiomedicalConcept_29 / Creatinine Concentration in Urine
+2026-10-14 17:13:37,428 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-10-03/datasetspecializations/CREATURIN
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_147
+2026-10-14 17:13:37,428 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,428 INFO  datatype = 
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_148
+2026-10-14 17:13:37,428 INFO  Property name: LBORRES
+2026-10-14 17:13:37,428 INFO  datatype = float
+2026-10-14 17:13:37,428 INFO  Property ID: BiomedicalConceptProperty_149
+2026-10-14 17:13:37,428 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,428 INFO  datatype = 
+2026-10-14 17:13:37,428 INFO  # of response codes = 4
+2026-10-14 17:13:37,429 INFO  codeValue = C67015
+2026-10-14 17:13:37,429 INFO  codeValue = C64572
+2026-10-14 17:13:37,429 INFO  codeValue = C64387
+2026-10-14 17:13:37,429 INFO  codeValue = C48508
+2026-10-14 17:13:37,429 INFO  Property ID: BiomedicalConceptProperty_150
+2026-10-14 17:13:37,429 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,429 INFO  datatype = 
+2026-10-14 17:13:37,429 INFO  Property ID: BiomedicalConceptProperty_151
+2026-10-14 17:13:37,429 INFO  Property name: LBFAST
+2026-10-14 17:13:37,429 INFO  datatype = 
+2026-10-14 17:13:37,429 INFO  # of response codes = 2
+2026-10-14 17:13:37,429 INFO  codeValue = C49487
+2026-10-14 17:13:37,429 INFO  codeValue = C49488
+2026-10-14 17:13:37,429 INFO  Biomedical Concept: BiomedicalConcept_30 / Potassium Concentration in Urine
+2026-10-14 17:13:37,429 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-07-06/datasetspecializations/KURIN
+2026-10-14 17:13:37,429 INFO  Property ID: BiomedicalConceptProperty_152
+2026-10-14 17:13:37,429 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,429 INFO  datatype = 
+2026-10-14 17:13:37,429 INFO  Property ID: BiomedicalConceptProperty_153
+2026-10-14 17:13:37,429 INFO  Property name: LBORRES
+2026-10-14 17:13:37,429 INFO  datatype = float
+2026-10-14 17:13:37,429 INFO  Property ID: BiomedicalConceptProperty_154
+2026-10-14 17:13:37,429 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,429 INFO  datatype = 
+2026-10-14 17:13:37,429 INFO  # of response codes = 3
+2026-10-14 17:13:37,430 INFO  codeValue = C67474
+2026-10-14 17:13:37,430 INFO  codeValue = C67473
+2026-10-14 17:13:37,430 INFO  codeValue = C64387
+2026-10-14 17:13:37,430 INFO  Property ID: BiomedicalConceptProperty_155
+2026-10-14 17:13:37,430 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,430 INFO  datatype = 
+2026-10-14 17:13:37,430 INFO  Property ID: BiomedicalConceptProperty_156
+2026-10-14 17:13:37,430 INFO  Property name: LBFAST
+2026-10-14 17:13:37,430 INFO  datatype = 
+2026-10-14 17:13:37,430 INFO  # of response codes = 2
+2026-10-14 17:13:37,430 INFO  codeValue = C49487
+2026-10-14 17:13:37,430 INFO  codeValue = C49488
+2026-10-14 17:13:37,430 INFO  Biomedical Concept: BiomedicalConcept_31 / Sodium Concentration in Urine
+2026-10-14 17:13:37,431 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/SODIUMURIN
+2026-10-14 17:13:37,431 INFO  Property ID: BiomedicalConceptProperty_157
+2026-10-14 17:13:37,431 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,431 INFO  datatype = 
+2026-10-14 17:13:37,431 INFO  Property ID: BiomedicalConceptProperty_158
+2026-10-14 17:13:37,431 INFO  Property name: LBORRES
+2026-10-14 17:13:37,431 INFO  datatype = float
+2026-10-14 17:13:37,431 INFO  Property ID: BiomedicalConceptProperty_159
+2026-10-14 17:13:37,431 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,431 INFO  datatype = 
+2026-10-14 17:13:37,431 INFO  # of response codes = 3
+2026-10-14 17:13:37,431 INFO  codeValue = C67474
+2026-10-14 17:13:37,431 INFO  codeValue = C67473
+2026-10-14 17:13:37,431 INFO  codeValue = C64387
+2026-10-14 17:13:37,431 INFO  Property ID: BiomedicalConceptProperty_160
+2026-10-14 17:13:37,431 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,431 INFO  datatype = 
+2026-10-14 17:13:37,431 INFO  Property ID: BiomedicalConceptProperty_161
+2026-10-14 17:13:37,431 INFO  Property name: LBFAST
+2026-10-14 17:13:37,431 INFO  datatype = 
+2026-10-14 17:13:37,431 INFO  # of response codes = 2
+2026-10-14 17:13:37,432 INFO  codeValue = C49487
+2026-10-14 17:13:37,432 INFO  codeValue = C49488
+2026-10-14 17:13:37,432 INFO  Activity id = Activity_22 - label = Uninalysis - description = 
+2026-10-14 17:13:37,432 INFO  Activity id = Activity_23 - label = Plasma Specimen (Xanomeline) - description = 
+2026-10-14 17:13:37,432 INFO  Activity id = Activity_24 - label = Hemoglobin A1C - description = 
+2026-10-14 17:13:37,432 INFO  Biomedical Concept: BiomedicalConcept_32 / Hemoglobin A1C Concentration in Blood
+2026-10-14 17:13:37,432 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-10-03/datasetspecializations/HBA1CBLD
+2026-10-14 17:13:37,432 INFO  Property ID: BiomedicalConceptProperty_162
+2026-10-14 17:13:37,432 INFO  Property name: LBTESTCD
+2026-10-14 17:13:37,432 INFO  datatype = 
+2026-10-14 17:13:37,432 INFO  Property ID: BiomedicalConceptProperty_163
+2026-10-14 17:13:37,432 INFO  Property name: LBORRES
+2026-10-14 17:13:37,432 INFO  datatype = float
+2026-10-14 17:13:37,432 INFO  Property ID: BiomedicalConceptProperty_164
+2026-10-14 17:13:37,432 INFO  Property name: LBORRESU
+2026-10-14 17:13:37,432 INFO  datatype = 
+2026-10-14 17:13:37,432 INFO  # of response codes = 1
+2026-10-14 17:13:37,432 INFO  codeValue = C64783
+2026-10-14 17:13:37,432 INFO  Property ID: BiomedicalConceptProperty_165
+2026-10-14 17:13:37,432 INFO  Property name: LBSPEC
+2026-10-14 17:13:37,432 INFO  datatype = 
+2026-10-14 17:13:37,432 INFO  Property ID: BiomedicalConceptProperty_166
+2026-10-14 17:13:37,432 INFO  Property name: LBFAST
+2026-10-14 17:13:37,432 INFO  datatype = 
+2026-10-14 17:13:37,432 INFO  # of response codes = 2
+2026-10-14 17:13:37,433 INFO  codeValue = C49487
+2026-10-14 17:13:37,433 INFO  codeValue = C49488
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_25 - label = Study drug record , Medications dispensed, Medications returned - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_26 - label = TTS Acceptability Survey - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_27 - label = ADAS-Cog - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_28 - label = CIBIC+ - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_29 - label = DAD - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_30 - label = NPI-X - description = 
+2026-10-14 17:13:37,433 INFO  Activity id = Activity_31 - label = Adverse events - description = 
+2026-10-14 17:13:37,433 INFO  Biomedical Concept: BiomedicalConcept_1 / Adverse Event Prespecified
+2026-10-14 17:13:37,433 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-10-03/datasetspecializations/AEPRESP
+2026-10-14 17:13:37,433 INFO  Property ID: BiomedicalConceptProperty_1
+2026-10-14 17:13:37,433 INFO  Property name: AETERM
+2026-10-14 17:13:37,433 INFO  datatype = text
+2026-10-14 17:13:37,433 INFO  Property ID: BiomedicalConceptProperty_2
+2026-10-14 17:13:37,433 INFO  Property name: AEDECOD
+2026-10-14 17:13:37,433 INFO  datatype = text
+2026-10-14 17:13:37,433 INFO  Property ID: BiomedicalConceptProperty_3
+2026-10-14 17:13:37,433 INFO  Property name: AEPRESP
+2026-10-14 17:13:37,433 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  # of response codes = 2
+2026-10-14 17:13:37,434 INFO  codeValue = C49487
+2026-10-14 17:13:37,434 INFO  codeValue = C49488
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_4
+2026-10-14 17:13:37,434 INFO  Property name: AELOC
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_5
+2026-10-14 17:13:37,434 INFO  Property name: AESEV
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_6
+2026-10-14 17:13:37,434 INFO  Property name: AESER
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  # of response codes = 2
+2026-10-14 17:13:37,434 INFO  codeValue = C49487
+2026-10-14 17:13:37,434 INFO  codeValue = C49488
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_7
+2026-10-14 17:13:37,434 INFO  Property name: AEACN
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_8
+2026-10-14 17:13:37,434 INFO  Property name: AEACNOTH
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_9
+2026-10-14 17:13:37,434 INFO  Property name: AEREL
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_10
+2026-10-14 17:13:37,434 INFO  Property name: AERELNST
+2026-10-14 17:13:37,434 INFO  datatype = text
+2026-10-14 17:13:37,434 INFO  Property ID: BiomedicalConceptProperty_11
+2026-10-14 17:13:37,435 INFO  Property name: AEPATT
+2026-10-14 17:13:37,435 INFO  datatype = text
+2026-10-14 17:13:37,435 INFO  Property ID: BiomedicalConceptProperty_12
+2026-10-14 17:13:37,435 INFO  Property name: AEOUT
+2026-10-14 17:13:37,435 INFO  datatype = text
+2026-10-14 17:13:37,435 INFO  Property ID: BiomedicalConceptProperty_13
+2026-10-14 17:13:37,435 INFO  Property name: AESCAN
+2026-10-14 17:13:37,435 INFO  datatype = text
+2026-10-14 17:13:37,435 INFO  # of response codes = 2
+2026-10-14 17:13:37,435 INFO  codeValue = C49487
+2026-10-14 17:13:37,435 INFO  codeValue = C49488
+2026-10-14 17:13:37,435 INFO  Property ID: BiomedicalConceptProperty_14
+2026-10-14 17:13:37,435 INFO  Property name: AESCONG
+2026-10-14 17:13:37,435 INFO  datatype = text
+2026-10-14 17:13:37,435 INFO  # of response codes = 2
+2026-10-14 17:13:37,435 INFO  codeValue = C49487
+2026-10-14 17:13:37,435 INFO  codeValue = C49488
+2026-10-14 17:13:37,435 INFO  Property ID: BiomedicalConceptProperty_15
+2026-10-14 17:13:37,435 INFO  Property name: AESDISAB
+2026-10-14 17:13:37,435 INFO  datatype = text
+2026-10-14 17:13:37,435 INFO  # of response codes = 2
+2026-10-14 17:13:37,435 INFO  codeValue = C49487
+2026-10-14 17:13:37,435 INFO  codeValue = C49488
+2026-10-14 17:13:37,435 INFO  Property ID: BiomedicalConceptProperty_16
+2026-10-14 17:13:37,435 INFO  Property name: AESDTH
+2026-10-14 17:13:37,436 INFO  datatype = text
+2026-10-14 17:13:37,436 INFO  # of response codes = 2
+2026-10-14 17:13:37,436 INFO  codeValue = C49487
+2026-10-14 17:13:37,436 INFO  codeValue = C49488
+2026-10-14 17:13:37,436 INFO  Property ID: BiomedicalConceptProperty_17
+2026-10-14 17:13:37,436 INFO  Property name: AESHOSP
+2026-10-14 17:13:37,436 INFO  datatype = text
+2026-10-14 17:13:37,436 INFO  # of response codes = 2
+2026-10-14 17:13:37,436 INFO  codeValue = C49487
+2026-10-14 17:13:37,436 INFO  codeValue = C49488
+2026-10-14 17:13:37,436 INFO  Property ID: BiomedicalConceptProperty_18
+2026-10-14 17:13:37,436 INFO  Property name: AESLIFE
+2026-10-14 17:13:37,436 INFO  datatype = text
+2026-10-14 17:13:37,436 INFO  # of response codes = 2
+2026-10-14 17:13:37,436 INFO  codeValue = C49487
+2026-10-14 17:13:37,436 INFO  codeValue = C49488
+2026-10-14 17:13:37,436 INFO  Property ID: BiomedicalConceptProperty_19
+2026-10-14 17:13:37,436 INFO  Property name: AESOD
+2026-10-14 17:13:37,436 INFO  datatype = text
+2026-10-14 17:13:37,436 INFO  # of response codes = 2
+2026-10-14 17:13:37,436 INFO  codeValue = C49487
+2026-10-14 17:13:37,436 INFO  codeValue = C49488
+2026-10-14 17:13:37,437 INFO  Property ID: BiomedicalConceptProperty_20
+2026-10-14 17:13:37,437 INFO  Property name: AESMIE
+2026-10-14 17:13:37,437 INFO  datatype = text
+2026-10-14 17:13:37,437 INFO  # of response codes = 2
+2026-10-14 17:13:37,437 INFO  codeValue = C49487
+2026-10-14 17:13:37,437 INFO  codeValue = C49488
+2026-10-14 17:13:37,437 INFO  Property ID: BiomedicalConceptProperty_21
+2026-10-14 17:13:37,437 INFO  Property name: AECONTRT
+2026-10-14 17:13:37,437 INFO  datatype = text
+2026-10-14 17:13:37,437 INFO  # of response codes = 2
+2026-10-14 17:13:37,437 INFO  codeValue = C49487
+2026-10-14 17:13:37,437 INFO  codeValue = C49488
+2026-10-14 17:13:37,437 INFO  Property ID: BiomedicalConceptProperty_22
+2026-10-14 17:13:37,437 INFO  Property name: AESTDTC
+2026-10-14 17:13:37,437 INFO  datatype = datetime
+2026-10-14 17:13:37,437 INFO  Property ID: BiomedicalConceptProperty_23
+2026-10-14 17:13:37,437 INFO  Property name: AEENDTC
+2026-10-14 17:13:37,437 INFO  datatype = datetime
+2026-10-14 17:13:37,437 INFO  Activity id = Activity_32 - label = Check adverse events - description = 
+2026-10-14 17:13:37,437 INFO  Activity id = Activity_33 - label = Subject supine - description = 
+2026-10-14 17:13:37,437 INFO  Activity id = Activity_34 - label = Vital signs while supine - description = 
+2026-10-14 17:13:37,437 INFO  Biomedical Concept: BiomedicalConcept_14 / Systolic Blood Pressure
+2026-10-14 17:13:37,437 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/SYSBP
+2026-10-14 17:13:37,437 INFO  Property ID: BiomedicalConceptProperty_80
+2026-10-14 17:13:37,437 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,437 INFO  datatype = 
+2026-10-14 17:13:37,438 INFO  Property ID: BiomedicalConceptProperty_81
+2026-10-14 17:13:37,438 INFO  Property name: VSORRES
+2026-10-14 17:13:37,438 INFO  datatype = integer
+2026-10-14 17:13:37,438 INFO  Property ID: BiomedicalConceptProperty_82
+2026-10-14 17:13:37,438 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,438 INFO  datatype = 
+2026-10-14 17:13:37,438 INFO  Property ID: BiomedicalConceptProperty_83
+2026-10-14 17:13:37,438 INFO  Property name: VSPOS
+2026-10-14 17:13:37,438 INFO  datatype = 
+2026-10-14 17:13:37,438 INFO  # of response codes = 3
+2026-10-14 17:13:37,438 INFO  codeValue = C62122
+2026-10-14 17:13:37,438 INFO  codeValue = C62166
+2026-10-14 17:13:37,438 INFO  codeValue = C62167
+2026-10-14 17:13:37,438 INFO  Property ID: BiomedicalConceptProperty_84
+2026-10-14 17:13:37,438 INFO  Property name: VSLOC
+2026-10-14 17:13:37,438 INFO  datatype = 
+2026-10-14 17:13:37,438 INFO  # of response codes = 5
+2026-10-14 17:13:37,438 INFO  codeValue = C12681
+2026-10-14 17:13:37,438 INFO  codeValue = C12687
+2026-10-14 17:13:37,438 INFO  codeValue = C32478
+2026-10-14 17:13:37,438 INFO  codeValue = C12715
+2026-10-14 17:13:37,438 INFO  codeValue = C12838
+2026-10-14 17:13:37,438 INFO  Property ID: BiomedicalConceptProperty_85
+2026-10-14 17:13:37,439 INFO  Property name: VSLAT
+2026-10-14 17:13:37,439 INFO  datatype = 
+2026-10-14 17:13:37,439 INFO  # of response codes = 2
+2026-10-14 17:13:37,439 INFO  codeValue = C25229
+2026-10-14 17:13:37,439 INFO  codeValue = C25228
+2026-10-14 17:13:37,439 INFO  Biomedical Concept: BiomedicalConcept_15 / Diastolic Blood Pressure
+2026-10-14 17:13:37,439 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/DIABP
+2026-10-14 17:13:37,439 INFO  Property ID: BiomedicalConceptProperty_86
+2026-10-14 17:13:37,439 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,439 INFO  datatype = 
+2026-10-14 17:13:37,439 INFO  Property ID: BiomedicalConceptProperty_87
+2026-10-14 17:13:37,439 INFO  Property name: VSORRES
+2026-10-14 17:13:37,439 INFO  datatype = integer
+2026-10-14 17:13:37,439 INFO  Property ID: BiomedicalConceptProperty_88
+2026-10-14 17:13:37,439 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,439 INFO  datatype = 
+2026-10-14 17:13:37,439 INFO  Property ID: BiomedicalConceptProperty_89
+2026-10-14 17:13:37,439 INFO  Property name: VSPOS
+2026-10-14 17:13:37,439 INFO  datatype = 
+2026-10-14 17:13:37,439 INFO  # of response codes = 3
+2026-10-14 17:13:37,439 INFO  codeValue = C62122
+2026-10-14 17:13:37,439 INFO  codeValue = C62166
+2026-10-14 17:13:37,439 INFO  codeValue = C62167
+2026-10-14 17:13:37,439 INFO  Property ID: BiomedicalConceptProperty_90
+2026-10-14 17:13:37,439 INFO  Property name: VSLOC
+2026-10-14 17:13:37,439 INFO  datatype = 
+2026-10-14 17:13:37,439 INFO  # of response codes = 5
+2026-10-14 17:13:37,439 INFO  codeValue = C12681
+2026-10-14 17:13:37,440 INFO  codeValue = C12687
+2026-10-14 17:13:37,440 INFO  codeValue = C32478
+2026-10-14 17:13:37,440 INFO  codeValue = C12715
+2026-10-14 17:13:37,440 INFO  codeValue = C12838
+2026-10-14 17:13:37,440 INFO  Property ID: BiomedicalConceptProperty_91
+2026-10-14 17:13:37,440 INFO  Property name: VSLAT
+2026-10-14 17:13:37,440 INFO  datatype = 
+2026-10-14 17:13:37,440 INFO  # of response codes = 2
+2026-10-14 17:13:37,440 INFO  codeValue = C25229
+2026-10-14 17:13:37,440 INFO  codeValue = C25228
+2026-10-14 17:13:37,440 INFO  Biomedical Concept: BiomedicalConcept_16 / Heart Rate
+2026-10-14 17:13:37,440 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/HR
+2026-10-14 17:13:37,440 INFO  Property ID: BiomedicalConceptProperty_92
+2026-10-14 17:13:37,440 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,440 INFO  datatype = 
+2026-10-14 17:13:37,440 INFO  Property ID: BiomedicalConceptProperty_93
+2026-10-14 17:13:37,440 INFO  Property name: VSORRES
+2026-10-14 17:13:37,440 INFO  datatype = integer
+2026-10-14 17:13:37,440 INFO  Property ID: BiomedicalConceptProperty_94
+2026-10-14 17:13:37,440 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,440 INFO  datatype = 
+2026-10-14 17:13:37,440 INFO  Property ID: BiomedicalConceptProperty_95
+2026-10-14 17:13:37,441 INFO  Property name: VSPOS
+2026-10-14 17:13:37,441 INFO  datatype = 
+2026-10-14 17:13:37,441 INFO  # of response codes = 3
+2026-10-14 17:13:37,441 INFO  codeValue = C62122
+2026-10-14 17:13:37,441 INFO  codeValue = C62166
+2026-10-14 17:13:37,441 INFO  codeValue = C62167
+2026-10-14 17:13:37,441 INFO  Property ID: BiomedicalConceptProperty_96
+2026-10-14 17:13:37,441 INFO  Property name: VSLOC
+2026-10-14 17:13:37,441 INFO  datatype = 
+2026-10-14 17:13:37,441 INFO  # of response codes = 5
+2026-10-14 17:13:37,441 INFO  codeValue = C12681
+2026-10-14 17:13:37,441 INFO  codeValue = C12687
+2026-10-14 17:13:37,441 INFO  codeValue = C32478
+2026-10-14 17:13:37,441 INFO  codeValue = C12715
+2026-10-14 17:13:37,441 INFO  codeValue = C12838
+2026-10-14 17:13:37,441 INFO  Property ID: BiomedicalConceptProperty_97
+2026-10-14 17:13:37,441 INFO  Property name: VSLAT
+2026-10-14 17:13:37,441 INFO  datatype = 
+2026-10-14 17:13:37,441 INFO  # of response codes = 2
+2026-10-14 17:13:37,441 INFO  codeValue = C25229
+2026-10-14 17:13:37,441 INFO  codeValue = C25228
+2026-10-14 17:13:37,441 INFO  Activity id = Activity_35 - label = Subject Standing - description = 
+2026-10-14 17:13:37,441 INFO  Activity id = Activity_36 - label = Vital signs while standing - description = 
+2026-10-14 17:13:37,441 INFO  Biomedical Concept: BiomedicalConcept_17 / Systolic Blood Pressure
+2026-10-14 17:13:37,441 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/SYSBP
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_98
+2026-10-14 17:13:37,442 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,442 INFO  datatype = 
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_99
+2026-10-14 17:13:37,442 INFO  Property name: VSORRES
+2026-10-14 17:13:37,442 INFO  datatype = integer
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_100
+2026-10-14 17:13:37,442 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,442 INFO  datatype = 
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_101
+2026-10-14 17:13:37,442 INFO  Property name: VSPOS
+2026-10-14 17:13:37,442 INFO  datatype = 
+2026-10-14 17:13:37,442 INFO  # of response codes = 3
+2026-10-14 17:13:37,442 INFO  codeValue = C62122
+2026-10-14 17:13:37,442 INFO  codeValue = C62166
+2026-10-14 17:13:37,442 INFO  codeValue = C62167
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_102
+2026-10-14 17:13:37,442 INFO  Property name: VSLOC
+2026-10-14 17:13:37,442 INFO  datatype = 
+2026-10-14 17:13:37,442 INFO  # of response codes = 5
+2026-10-14 17:13:37,442 INFO  codeValue = C12681
+2026-10-14 17:13:37,442 INFO  codeValue = C12687
+2026-10-14 17:13:37,442 INFO  codeValue = C32478
+2026-10-14 17:13:37,442 INFO  codeValue = C12715
+2026-10-14 17:13:37,442 INFO  codeValue = C12838
+2026-10-14 17:13:37,442 INFO  Property ID: BiomedicalConceptProperty_103
+2026-10-14 17:13:37,442 INFO  Property name: VSLAT
+2026-10-14 17:13:37,442 INFO  datatype = 
+2026-10-14 17:13:37,442 INFO  # of response codes = 2
+2026-10-14 17:13:37,442 INFO  codeValue = C25229
+2026-10-14 17:13:37,442 INFO  codeValue = C25228
+2026-10-14 17:13:37,442 INFO  Biomedical Concept: BiomedicalConcept_18 / Diastolic Blood Pressure
+2026-10-14 17:13:37,442 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/DIABP
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_104
+2026-10-14 17:13:37,443 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,443 INFO  datatype = 
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_105
+2026-10-14 17:13:37,443 INFO  Property name: VSORRES
+2026-10-14 17:13:37,443 INFO  datatype = integer
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_106
+2026-10-14 17:13:37,443 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,443 INFO  datatype = 
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_107
+2026-10-14 17:13:37,443 INFO  Property name: VSPOS
+2026-10-14 17:13:37,443 INFO  datatype = 
+2026-10-14 17:13:37,443 INFO  # of response codes = 3
+2026-10-14 17:13:37,443 INFO  codeValue = C62122
+2026-10-14 17:13:37,443 INFO  codeValue = C62166
+2026-10-14 17:13:37,443 INFO  codeValue = C62167
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_108
+2026-10-14 17:13:37,443 INFO  Property name: VSLOC
+2026-10-14 17:13:37,443 INFO  datatype = 
+2026-10-14 17:13:37,443 INFO  # of response codes = 5
+2026-10-14 17:13:37,443 INFO  codeValue = C12681
+2026-10-14 17:13:37,443 INFO  codeValue = C12687
+2026-10-14 17:13:37,443 INFO  codeValue = C32478
+2026-10-14 17:13:37,443 INFO  codeValue = C12715
+2026-10-14 17:13:37,443 INFO  codeValue = C12838
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_109
+2026-10-14 17:13:37,443 INFO  Property name: VSLAT
+2026-10-14 17:13:37,443 INFO  datatype = 
+2026-10-14 17:13:37,443 INFO  # of response codes = 2
+2026-10-14 17:13:37,443 INFO  codeValue = C25229
+2026-10-14 17:13:37,443 INFO  codeValue = C25228
+2026-10-14 17:13:37,443 INFO  Biomedical Concept: BiomedicalConcept_19 / Heart Rate
+2026-10-14 17:13:37,443 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/HR
+2026-10-14 17:13:37,443 INFO  Property ID: BiomedicalConceptProperty_110
+2026-10-14 17:13:37,444 INFO  Property name: VSTESTCD
+2026-10-14 17:13:37,444 INFO  datatype = 
+2026-10-14 17:13:37,444 INFO  Property ID: BiomedicalConceptProperty_111
+2026-10-14 17:13:37,444 INFO  Property name: VSORRES
+2026-10-14 17:13:37,444 INFO  datatype = integer
+2026-10-14 17:13:37,444 INFO  Property ID: BiomedicalConceptProperty_112
+2026-10-14 17:13:37,444 INFO  Property name: VSORRESU
+2026-10-14 17:13:37,444 INFO  datatype = 
+2026-10-14 17:13:37,444 INFO  Property ID: BiomedicalConceptProperty_113
+2026-10-14 17:13:37,444 INFO  Property name: VSPOS
+2026-10-14 17:13:37,444 INFO  datatype = 
+2026-10-14 17:13:37,444 INFO  # of response codes = 3
+2026-10-14 17:13:37,444 INFO  codeValue = C62122
+2026-10-14 17:13:37,444 INFO  codeValue = C62166
+2026-10-14 17:13:37,444 INFO  codeValue = C62167
+2026-10-14 17:13:37,444 INFO  Property ID: BiomedicalConceptProperty_114
+2026-10-14 17:13:37,444 INFO  Property name: VSLOC
+2026-10-14 17:13:37,444 INFO  datatype = 
+2026-10-14 17:13:37,444 INFO  # of response codes = 5
+2026-10-14 17:13:37,444 INFO  codeValue = C12681
+2026-10-14 17:13:37,444 INFO  codeValue = C12687
+2026-10-14 17:13:37,444 INFO  codeValue = C32478
+2026-10-14 17:13:37,444 INFO  codeValue = C12715
+2026-10-14 17:13:37,444 INFO  codeValue = C12838
+2026-10-14 17:13:37,445 INFO  Property ID: BiomedicalConceptProperty_115
+2026-10-14 17:13:37,445 INFO  Property name: VSLAT
+2026-10-14 17:13:37,445 INFO  datatype = 
+2026-10-14 17:13:37,445 INFO  # of response codes = 2
+2026-10-14 17:13:37,445 INFO  codeValue = C25229
+2026-10-14 17:13:37,445 INFO  codeValue = C25228
+2026-10-14 17:13:37,445 INFO  # of WhereClauses generated = 0
+2026-10-14 17:13:37,445 INFO  # of ValueList-ItemDefs generated = 0
+2026-10-14 17:13:37,445 INFO  # of ValueList codeLists generated = 0
+2026-10-14 17:13:37,445 INFO  Distinct SDTM domains = []
+2026-10-14 17:13:37,445 INFO  Distinct SDTM variables that need a ValueList = []
+2026-10-14 17:13:37,445 INFO  SDTM classes for domains = 
+2026-10-14 17:13:37,445 INFO  testcdTestCodeListMap = {}
+2026-10-14 17:13:37,445 INFO  # of entries in testcdTestCodeListMap = 0
+2026-10-14 17:13:37,452 INFO  templateCodeListOIDs = []
+2026-10-14 17:13:37,990 INFO  Starting writing to output
+2026-10-14 17:13:37,990 INFO  Starting writing to output
+2026-10-14 17:13:38,039 INFO  Define.xml file reorganized using XSLT and written to: D:\CDISC_Standards\USDM2DefineXML\M11\m11_define.xml
+2026-10-14 17:13:38,039 INFO  Finished writing to file = D:\CDISC_Standards\USDM2DefineXML\M11\m11_define.xml - size = 1274
+2026-10-14 17:13:38,459 INFO  HTML file generated: D:\CDISC_Standards\USDM2DefineXML\M11\m11_define.html
+2026-10-14 17:16:51,463 INFO  Starting retrieving activities from USDM file = D:\CDISC_Standards\USDM2DefineXML\EliLilly_NCT03421379_Diabetes\EliLilly_NCT03421379_Diabetes.json
+2026-10-14 17:16:51,510 INFO  # activities = 34
+2026-10-14 17:16:51,560 INFO  found BC = BiomedicalConcept_2
+2026-10-14 17:16:51,560 INFO  found BC = BiomedicalConcept_3
+2026-10-14 17:16:51,560 INFO  found BC = BiomedicalConcept_4
+2026-10-14 17:16:51,560 INFO  found BC = BiomedicalConcept_5
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_6
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_7
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_8
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_9
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_10
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_11
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_12
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_13
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_14
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_15
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_16
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_17
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_18
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_19
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_20
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_21
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_22
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_23
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_24
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_25
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_26
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_27
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_28
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_29
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_30
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_31
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_32
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_33
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_34
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_35
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_36
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_1
+2026-10-14 17:16:51,561 INFO  found BC = BiomedicalConcept_37
+2026-10-14 17:16:51,561 INFO  Activity id = Activity_1 - label = Informed Consent - description = Informed Consent
+2026-10-14 17:16:51,561 INFO  Biomedical Concept: BiomedicalConcept_2 / Informed Consent Obtained (2)
+2026-10-14 17:16:51,561 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2023-12-12/datasetspecializations/CONSENT
+2026-10-14 17:16:51,561 INFO  Property ID: BiomedicalConceptProperty_5
+2026-10-14 17:16:51,561 INFO  Property name: DSDECOD (2.5)
+2026-10-14 17:16:51,561 INFO  datatype = text
+2026-10-14 17:16:51,561 INFO  Property ID: BiomedicalConceptProperty_6
+2026-10-14 17:16:51,561 INFO  Property name: DSTERM (2.6)
+2026-10-14 17:16:51,561 INFO  datatype = text
+2026-10-14 17:16:51,561 INFO  Property ID: BiomedicalConceptProperty_7
+2026-10-14 17:16:51,561 INFO  Property name: DSSTDTC (2.7)
+2026-10-14 17:16:51,561 INFO  datatype = datetime
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_2 - label = Randomization - description = Randomization
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_3 - label = Admission to CRU - description = Admission to CRU
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_4 - label = Discharge from CRU - description = Discharge from CRU
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_5 - label = Medical History - description = Medical History
+2026-10-14 17:16:51,562 INFO  Biomedical Concept: BiomedicalConcept_3 / Medical History Free Text Format (3)
+2026-10-14 17:16:51,562 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/MEDHISTFREE
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_8
+2026-10-14 17:16:51,562 INFO  Property name: MHTERM (3.8)
+2026-10-14 17:16:51,562 INFO  datatype = text
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_9
+2026-10-14 17:16:51,562 INFO  Property name: MHDECOD (3.9)
+2026-10-14 17:16:51,562 INFO  datatype = text
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_10
+2026-10-14 17:16:51,562 INFO  Property name: MHSTDTC (3.10)
+2026-10-14 17:16:51,562 INFO  datatype = datetime
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_11
+2026-10-14 17:16:51,562 INFO  Property name: MHENDTC (3.11)
+2026-10-14 17:16:51,562 INFO  datatype = datetime
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_12
+2026-10-14 17:16:51,562 INFO  Property name: MHENRF (3.12)
+2026-10-14 17:16:51,562 INFO  datatype = text
+2026-10-14 17:16:51,562 INFO  # of response codes = 5
+2026-10-14 17:16:51,562 INFO  codeValue = C25629
+2026-10-14 17:16:51,562 INFO  codeValue = C25490
+2026-10-14 17:16:51,562 INFO  codeValue = C49640
+2026-10-14 17:16:51,562 INFO  codeValue = C38008
+2026-10-14 17:16:51,562 INFO  codeValue = C17998
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_13
+2026-10-14 17:16:51,562 INFO  Property name: MHENRTPT (3.13)
+2026-10-14 17:16:51,562 INFO  datatype = text
+2026-10-14 17:16:51,562 INFO  # of response codes = 5
+2026-10-14 17:16:51,562 INFO  codeValue = C25629
+2026-10-14 17:16:51,562 INFO  codeValue = C25456
+2026-10-14 17:16:51,562 INFO  codeValue = C38008
+2026-10-14 17:16:51,562 INFO  codeValue = C53279
+2026-10-14 17:16:51,562 INFO  codeValue = C17998
+2026-10-14 17:16:51,562 INFO  Property ID: BiomedicalConceptProperty_14
+2026-10-14 17:16:51,562 INFO  Property name: MHENTPT (3.14)
+2026-10-14 17:16:51,562 INFO  datatype = text
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_6 - label = Collect Pre-existing Conditions and Adverse Events - description = Collect Pre-existing Conditions and Adverse Events
+2026-10-14 17:16:51,562 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,562 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_7 - label = Physical Exam - description = Physical Exam
+2026-10-14 17:16:51,562 INFO  Activity id = Activity_8 - label = Height and Weight - description = Height and Weight
+2026-10-14 17:16:51,562 INFO  Biomedical Concept: BiomedicalConcept_4 / Weight (4)
+2026-10-14 17:16:51,562 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2024-12-16/datasetspecializations/WEIGHT
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_15
+2026-10-14 17:16:51,563 INFO  Property name: VSTESTCD (4.15)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_16
+2026-10-14 17:16:51,563 INFO  Property name: VSORRES (4.16)
+2026-10-14 17:16:51,563 INFO  datatype = float
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_17
+2026-10-14 17:16:51,563 INFO  Property name: VSORRESU (4.17)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  # of response codes = 3
+2026-10-14 17:16:51,563 INFO  codeValue = C48531
+2026-10-14 17:16:51,563 INFO  codeValue = C48155
+2026-10-14 17:16:51,563 INFO  codeValue = C28252
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_18
+2026-10-14 17:16:51,563 INFO  Property name: VSDTC (4.18)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  Biomedical Concept: BiomedicalConcept_5 / Height (5)
+2026-10-14 17:16:51,563 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2024-12-16/datasetspecializations/HEIGHT
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_19
+2026-10-14 17:16:51,563 INFO  Property name: VSTESTCD (5.19)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_20
+2026-10-14 17:16:51,563 INFO  Property name: VSORRES (5.20)
+2026-10-14 17:16:51,563 INFO  datatype = float
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_21
+2026-10-14 17:16:51,563 INFO  Property name: VSORRESU (5.21)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  # of response codes = 3
+2026-10-14 17:16:51,563 INFO  codeValue = C49668
+2026-10-14 17:16:51,563 INFO  codeValue = C48500
+2026-10-14 17:16:51,563 INFO  codeValue = C41139
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_22
+2026-10-14 17:16:51,563 INFO  Property name: VSDTC (5.22)
+2026-10-14 17:16:51,563 INFO  datatype = 
+2026-10-14 17:16:51,563 INFO  Activity id = Activity_9 - label = Hypoglycemic Events - description = Hypoglycemic Events
+2026-10-14 17:16:51,563 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,563 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,563 INFO  Activity id = Activity_10 - label = Collect Concomitant Medications - description = Concomitant Medication
+2026-10-14 17:16:51,563 INFO  Biomedical Concept: BiomedicalConcept_6 / Concomitant Medication Free Text Format (6)
+2026-10-14 17:16:51,563 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/CMFREE
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_23
+2026-10-14 17:16:51,563 INFO  Property name: CMTRT (6.23)
+2026-10-14 17:16:51,563 INFO  datatype = text
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_24
+2026-10-14 17:16:51,563 INFO  Property name: CMDECOD (6.24)
+2026-10-14 17:16:51,563 INFO  datatype = text
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_25
+2026-10-14 17:16:51,563 INFO  Property name: CMCLAS (6.25)
+2026-10-14 17:16:51,563 INFO  datatype = text
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_26
+2026-10-14 17:16:51,563 INFO  Property name: CMINDC (6.26)
+2026-10-14 17:16:51,563 INFO  datatype = text
+2026-10-14 17:16:51,563 INFO  Property ID: BiomedicalConceptProperty_27
+2026-10-14 17:16:51,564 INFO  Property name: CMDOSE (6.27)
+2026-10-14 17:16:51,564 INFO  datatype = float
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_28
+2026-10-14 17:16:51,564 INFO  Property name: CMDOSTXT (6.28)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_29
+2026-10-14 17:16:51,564 INFO  Property name: CMDOSU (6.29)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_30
+2026-10-14 17:16:51,564 INFO  Property name: CMDOSFRM (6.30)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_31
+2026-10-14 17:16:51,564 INFO  Property name: CMDOSFRQ (6.31)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_32
+2026-10-14 17:16:51,564 INFO  Property name: CMROUTE (6.32)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_33
+2026-10-14 17:16:51,564 INFO  Property name: CMSTDTC (6.33)
+2026-10-14 17:16:51,564 INFO  datatype = datetime
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_34
+2026-10-14 17:16:51,564 INFO  Property name: CMENDTC (6.34)
+2026-10-14 17:16:51,564 INFO  datatype = datetime
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_35
+2026-10-14 17:16:51,564 INFO  Property name: CMSTRF (6.35)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  # of response codes = 5
+2026-10-14 17:16:51,564 INFO  codeValue = C25629
+2026-10-14 17:16:51,564 INFO  codeValue = C25490
+2026-10-14 17:16:51,564 INFO  codeValue = C49640
+2026-10-14 17:16:51,564 INFO  codeValue = C38008
+2026-10-14 17:16:51,564 INFO  codeValue = C17998
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_36
+2026-10-14 17:16:51,564 INFO  Property name: CMSTRTPT (6.36)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  # of response codes = 5
+2026-10-14 17:16:51,564 INFO  codeValue = C25629
+2026-10-14 17:16:51,564 INFO  codeValue = C25456
+2026-10-14 17:16:51,564 INFO  codeValue = C38008
+2026-10-14 17:16:51,564 INFO  codeValue = C53279
+2026-10-14 17:16:51,564 INFO  codeValue = C17998
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_37
+2026-10-14 17:16:51,564 INFO  Property name: CMSTTPT (6.37)
+2026-10-14 17:16:51,564 INFO  datatype = text
+2026-10-14 17:16:51,564 INFO  Property ID: BiomedicalConceptProperty_38
+2026-10-14 17:16:51,564 INFO  Property name: CMENRF (6.38)
+2026-10-14 17:16:51,565 INFO  datatype = text
+2026-10-14 17:16:51,565 INFO  # of response codes = 5
+2026-10-14 17:16:51,565 INFO  codeValue = C25629
+2026-10-14 17:16:51,565 INFO  codeValue = C25490
+2026-10-14 17:16:51,565 INFO  codeValue = C49640
+2026-10-14 17:16:51,565 INFO  codeValue = C38008
+2026-10-14 17:16:51,565 INFO  codeValue = C17998
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_39
+2026-10-14 17:16:51,565 INFO  Property name: CMENRTPT (6.39)
+2026-10-14 17:16:51,565 INFO  datatype = text
+2026-10-14 17:16:51,565 INFO  # of response codes = 5
+2026-10-14 17:16:51,565 INFO  codeValue = C25629
+2026-10-14 17:16:51,565 INFO  codeValue = C25456
+2026-10-14 17:16:51,565 INFO  codeValue = C38008
+2026-10-14 17:16:51,565 INFO  codeValue = C53279
+2026-10-14 17:16:51,565 INFO  codeValue = C17998
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_40
+2026-10-14 17:16:51,565 INFO  Property name: CMENTPT (6.40)
+2026-10-14 17:16:51,565 INFO  datatype = text
+2026-10-14 17:16:51,565 INFO  Activity id = Activity_11 - label = Insulin infusion to Induce Hypoglycemia - description = Insulin infusion
+2026-10-14 17:16:51,565 INFO  Activity id = Activity_12 - label = PG Monitoring - description = PG Monitoring
+2026-10-14 17:16:51,565 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,565 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,565 INFO  Activity id = Activity_13 - label = Study Treatment Administration - description = Study Treatment administration
+2026-10-14 17:16:51,565 INFO  Activity id = Activity_16 - label = Vital Signs (Supine Blood Pressure, Pulse Rate, and Body Temperature) - description = Vital Signs
+2026-10-14 17:16:51,565 INFO  Biomedical Concept: BiomedicalConcept_7 / Systolic Blood Pressure (7)
+2026-10-14 17:16:51,565 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-04-01/datasetspecializations/SYSBP
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_41
+2026-10-14 17:16:51,565 INFO  Property name: VSTESTCD (7.41)
+2026-10-14 17:16:51,565 INFO  datatype = 
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_42
+2026-10-14 17:16:51,565 INFO  Property name: VSORRES (7.42)
+2026-10-14 17:16:51,565 INFO  datatype = integer
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_43
+2026-10-14 17:16:51,565 INFO  Property name: VSORRESU (7.43)
+2026-10-14 17:16:51,565 INFO  datatype = 
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_44
+2026-10-14 17:16:51,565 INFO  Property name: VSPOS (7.44)
+2026-10-14 17:16:51,565 INFO  datatype = 
+2026-10-14 17:16:51,565 INFO  # of response codes = 5
+2026-10-14 17:16:51,565 INFO  codeValue = C62165
+2026-10-14 17:16:51,565 INFO  codeValue = C111310
+2026-10-14 17:16:51,565 INFO  codeValue = C62122
+2026-10-14 17:16:51,565 INFO  codeValue = C62166
+2026-10-14 17:16:51,565 INFO  codeValue = C62167
+2026-10-14 17:16:51,565 INFO  Property ID: BiomedicalConceptProperty_45
+2026-10-14 17:16:51,565 INFO  Property name: VSLOC (7.45)
+2026-10-14 17:16:51,565 INFO  datatype = 
+2026-10-14 17:16:51,565 INFO  # of response codes = 6
+2026-10-14 17:16:51,565 INFO  codeValue = C12681
+2026-10-14 17:16:51,565 INFO  codeValue = C12687
+2026-10-14 17:16:51,565 INFO  codeValue = C32478
+2026-10-14 17:16:51,565 INFO  codeValue = C12715
+2026-10-14 17:16:51,565 INFO  codeValue = C32608
+2026-10-14 17:16:51,565 INFO  codeValue = C12838
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_46
+2026-10-14 17:16:51,566 INFO  Property name: VSLAT (7.46)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  # of response codes = 2
+2026-10-14 17:16:51,566 INFO  codeValue = C25229
+2026-10-14 17:16:51,566 INFO  codeValue = C25228
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_47
+2026-10-14 17:16:51,566 INFO  Property name: VSDTC (7.47)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  Biomedical Concept: BiomedicalConcept_8 / Diastolic Blood Pressure (8)
+2026-10-14 17:16:51,566 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-04-01/datasetspecializations/DIABP
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_48
+2026-10-14 17:16:51,566 INFO  Property name: VSTESTCD (8.48)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_49
+2026-10-14 17:16:51,566 INFO  Property name: VSORRES (8.49)
+2026-10-14 17:16:51,566 INFO  datatype = integer
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_50
+2026-10-14 17:16:51,566 INFO  Property name: VSORRESU (8.50)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_51
+2026-10-14 17:16:51,566 INFO  Property name: VSPOS (8.51)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  # of response codes = 5
+2026-10-14 17:16:51,566 INFO  codeValue = C62165
+2026-10-14 17:16:51,566 INFO  codeValue = C111310
+2026-10-14 17:16:51,566 INFO  codeValue = C62122
+2026-10-14 17:16:51,566 INFO  codeValue = C62166
+2026-10-14 17:16:51,566 INFO  codeValue = C62167
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_52
+2026-10-14 17:16:51,566 INFO  Property name: VSLOC (8.52)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  # of response codes = 6
+2026-10-14 17:16:51,566 INFO  codeValue = C12681
+2026-10-14 17:16:51,566 INFO  codeValue = C12687
+2026-10-14 17:16:51,566 INFO  codeValue = C32478
+2026-10-14 17:16:51,566 INFO  codeValue = C12715
+2026-10-14 17:16:51,566 INFO  codeValue = C32608
+2026-10-14 17:16:51,566 INFO  codeValue = C12838
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_53
+2026-10-14 17:16:51,566 INFO  Property name: VSLAT (8.53)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  # of response codes = 2
+2026-10-14 17:16:51,566 INFO  codeValue = C25229
+2026-10-14 17:16:51,566 INFO  codeValue = C25228
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_54
+2026-10-14 17:16:51,566 INFO  Property name: VSDTC (8.54)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,566 INFO  Biomedical Concept: BiomedicalConcept_9 / Pulse (9)
+2026-10-14 17:16:51,566 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-04-01/datasetspecializations/PULSE
+2026-10-14 17:16:51,566 INFO  Property ID: BiomedicalConceptProperty_55
+2026-10-14 17:16:51,566 INFO  Property name: VSTESTCD (9.55)
+2026-10-14 17:16:51,566 INFO  datatype = 
+2026-10-14 17:16:51,567 INFO  Property ID: BiomedicalConceptProperty_56
+2026-10-14 17:16:51,567 INFO  Property name: VSORRES (9.56)
+2026-10-14 17:16:51,567 INFO  datatype = integer
+2026-10-14 17:16:51,567 INFO  Property ID: BiomedicalConceptProperty_57
+2026-10-14 17:16:51,567 INFO  Property name: VSORRESU (9.57)
+2026-10-14 17:16:51,567 INFO  datatype = 
+2026-10-14 17:16:51,567 INFO  Property ID: BiomedicalConceptProperty_58
+2026-10-14 17:16:51,567 INFO  Property name: VSPOS (9.58)
+2026-10-14 17:16:51,567 INFO  datatype = 
+2026-10-14 17:16:51,567 INFO  # of response codes = 5
+2026-10-14 17:16:51,567 INFO  codeValue = C62165
+2026-10-14 17:16:51,567 INFO  codeValue = C111310
+2026-10-14 17:16:51,567 INFO  codeValue = C62122
+2026-10-14 17:16:51,567 INFO  codeValue = C62166
+2026-10-14 17:16:51,567 INFO  codeValue = C62167
+2026-10-14 17:16:51,567 INFO  Property ID: BiomedicalConceptProperty_59
+2026-10-14 17:16:51,567 INFO  Property name: VSLOC (9.59)
+2026-10-14 17:16:51,567 INFO  datatype = 
+2026-10-14 17:16:51,567 INFO  # of response codes = 6
+2026-10-14 17:16:51,567 INFO  codeValue = C12681
+2026-10-14 17:16:51,567 INFO  codeValue = C12687
+2026-10-14 17:16:51,567 INFO  codeValue = C12691
+2026-10-14 17:16:51,567 INFO  codeValue = C32478
+2026-10-14 17:16:51,567 INFO  codeValue = C12715
+2026-10-14 17:16:51,567 INFO  codeValue = C12838
+2026-10-14 17:16:51,567 INFO  Property ID: BiomedicalConceptProperty_60
+2026-10-14 17:16:51,567 INFO  Property name: VSLAT (9.60)
+2026-10-14 17:16:51,567 INFO  datatype = 
+2026-10-14 17:16:51,567 INFO  # of response codes = 2
+2026-10-14 17:16:51,567 INFO  codeValue = C25229
+2026-10-14 17:16:51,568 INFO  codeValue = C25228
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_61
+2026-10-14 17:16:51,568 INFO  Property name: VSDTC (9.61)
+2026-10-14 17:16:51,568 INFO  datatype = 
+2026-10-14 17:16:51,568 INFO  Biomedical Concept: BiomedicalConcept_10 / Temperature (10)
+2026-10-14 17:16:51,568 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2024-12-16/datasetspecializations/TEMP
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_62
+2026-10-14 17:16:51,568 INFO  Property name: VSTESTCD (10.62)
+2026-10-14 17:16:51,568 INFO  datatype = 
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_63
+2026-10-14 17:16:51,568 INFO  Property name: VSORRES (10.63)
+2026-10-14 17:16:51,568 INFO  datatype = float
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_64
+2026-10-14 17:16:51,568 INFO  Property name: VSORRESU (10.64)
+2026-10-14 17:16:51,568 INFO  datatype = 
+2026-10-14 17:16:51,568 INFO  # of response codes = 3
+2026-10-14 17:16:51,568 INFO  codeValue = C42559
+2026-10-14 17:16:51,568 INFO  codeValue = C44277
+2026-10-14 17:16:51,568 INFO  codeValue = C42537
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_65
+2026-10-14 17:16:51,568 INFO  Property name: VSLOC (10.65)
+2026-10-14 17:16:51,568 INFO  datatype = 
+2026-10-14 17:16:51,568 INFO  # of response codes = 5
+2026-10-14 17:16:51,568 INFO  codeValue = C12674
+2026-10-14 17:16:51,568 INFO  codeValue = C12394
+2026-10-14 17:16:51,568 INFO  codeValue = C89803
+2026-10-14 17:16:51,568 INFO  codeValue = C12421
+2026-10-14 17:16:51,568 INFO  codeValue = C12390
+2026-10-14 17:16:51,568 INFO  Property ID: BiomedicalConceptProperty_66
+2026-10-14 17:16:51,568 INFO  Property name: VSDTC (10.66)
+2026-10-14 17:16:51,568 INFO  datatype = 
+2026-10-14 17:16:51,569 INFO  Activity id = Activity_17 - label = Single 12-lead ECG (Local) - description = Single 12-lead ECG (Local)
+2026-10-14 17:16:51,569 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,569 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,569 INFO  Activity id = Activity_18 - label = Triplicate 12-lead ECG (Central) - description = Triplicate 12-lead ECG
+2026-10-14 17:16:51,569 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,569 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,569 INFO  Activity id = Activity_19 - label = Clinical Serology Tests - description = Clinical Serology Tests
+2026-10-14 17:16:51,569 INFO  Activity id = Activity_20 - label = Clinical Lab Tests - description = Clinical Lab Tests
+2026-10-14 17:16:51,569 INFO  Biomedical Concept: BiomedicalConcept_11 / Hematocrit of Blood (11)
+2026-10-14 17:16:51,569 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/HCTBLD
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_67
+2026-10-14 17:16:51,569 INFO  Property name: LBTESTCD (11.67)
+2026-10-14 17:16:51,569 INFO  datatype = 
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_68
+2026-10-14 17:16:51,569 INFO  Property name: LBORRES (11.68)
+2026-10-14 17:16:51,569 INFO  datatype = float
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_69
+2026-10-14 17:16:51,569 INFO  Property name: LBORRESU (11.69)
+2026-10-14 17:16:51,569 INFO  datatype = 
+2026-10-14 17:16:51,569 INFO  # of response codes = 1
+2026-10-14 17:16:51,569 INFO  codeValue = C105484
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_70
+2026-10-14 17:16:51,569 INFO  Property name: LBSPEC (11.70)
+2026-10-14 17:16:51,569 INFO  datatype = 
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_71
+2026-10-14 17:16:51,569 INFO  Property name: LBFAST (11.71)
+2026-10-14 17:16:51,569 INFO  datatype = 
+2026-10-14 17:16:51,569 INFO  # of response codes = 2
+2026-10-14 17:16:51,569 INFO  codeValue = C49487
+2026-10-14 17:16:51,569 INFO  codeValue = C49488
+2026-10-14 17:16:51,569 INFO  Property ID: BiomedicalConceptProperty_72
+2026-10-14 17:16:51,569 INFO  Property name: LBDTC (11.72)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  Biomedical Concept: BiomedicalConcept_12 / Hemoglobin in Blood by Dipstick (12)
+2026-10-14 17:16:51,570 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/HGBBLDDIP
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_73
+2026-10-14 17:16:51,570 INFO  Property name: LBTESTCD (12.73)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_74
+2026-10-14 17:16:51,570 INFO  Property name: LBORRES (12.74)
+2026-10-14 17:16:51,570 INFO  datatype = float
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_75
+2026-10-14 17:16:51,570 INFO  Property name: LBORRESU (12.75)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  # of response codes = 3
+2026-10-14 17:16:51,570 INFO  codeValue = C64783
+2026-10-14 17:16:51,570 INFO  codeValue = C42576
+2026-10-14 17:16:51,570 INFO  codeValue = C67015
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_76
+2026-10-14 17:16:51,570 INFO  Property name: LBSPEC (12.76)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_77
+2026-10-14 17:16:51,570 INFO  Property name: LBMETHOD (12.77)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_78
+2026-10-14 17:16:51,570 INFO  Property name: LBFAST (12.78)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  # of response codes = 2
+2026-10-14 17:16:51,570 INFO  codeValue = C49487
+2026-10-14 17:16:51,570 INFO  codeValue = C49488
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_79
+2026-10-14 17:16:51,570 INFO  Property name: LBDTC (12.79)
+2026-10-14 17:16:51,570 INFO  datatype = 
+2026-10-14 17:16:51,570 INFO  Biomedical Concept: BiomedicalConcept_13 / Platelet Count in Blood (13)
+2026-10-14 17:16:51,570 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/PLATBLD
+2026-10-14 17:16:51,570 INFO  Property ID: BiomedicalConceptProperty_80
+2026-10-14 17:16:51,571 INFO  Property name: LBTESTCD (13.80)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_81
+2026-10-14 17:16:51,571 INFO  Property name: LBORRES (13.81)
+2026-10-14 17:16:51,571 INFO  datatype = float
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_82
+2026-10-14 17:16:51,571 INFO  Property name: LBORRESU (13.82)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  # of response codes = 1
+2026-10-14 17:16:51,571 INFO  codeValue = C67255
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_83
+2026-10-14 17:16:51,571 INFO  Property name: LBSPEC (13.83)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_84
+2026-10-14 17:16:51,571 INFO  Property name: LBFAST (13.84)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  # of response codes = 2
+2026-10-14 17:16:51,571 INFO  codeValue = C49487
+2026-10-14 17:16:51,571 INFO  codeValue = C49488
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_85
+2026-10-14 17:16:51,571 INFO  Property name: LBDTC (13.85)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  Biomedical Concept: BiomedicalConcept_14 / Neutrophils in Blood (14)
+2026-10-14 17:16:51,571 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/NEUTBLD
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_86
+2026-10-14 17:16:51,571 INFO  Property name: LBTESTCD (14.86)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_87
+2026-10-14 17:16:51,571 INFO  Property name: LBORRES (14.87)
+2026-10-14 17:16:51,571 INFO  datatype = float
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_88
+2026-10-14 17:16:51,571 INFO  Property name: LBORRESU (14.88)
+2026-10-14 17:16:51,571 INFO  datatype = 
+2026-10-14 17:16:51,571 INFO  Property ID: BiomedicalConceptProperty_89
+2026-10-14 17:16:51,571 INFO  Property name: LBSPEC (14.89)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_90
+2026-10-14 17:16:51,572 INFO  Property name: LBFAST (14.90)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  # of response codes = 2
+2026-10-14 17:16:51,572 INFO  codeValue = C49487
+2026-10-14 17:16:51,572 INFO  codeValue = C49488
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_91
+2026-10-14 17:16:51,572 INFO  Property name: LBDTC (14.91)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Biomedical Concept: BiomedicalConcept_15 / Lymphocyte Count in Blood (15)
+2026-10-14 17:16:51,572 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/LYMPHBLD
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_92
+2026-10-14 17:16:51,572 INFO  Property name: LBTESTCD (15.92)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_93
+2026-10-14 17:16:51,572 INFO  Property name: LBORRES (15.93)
+2026-10-14 17:16:51,572 INFO  datatype = float
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_94
+2026-10-14 17:16:51,572 INFO  Property name: LBORRESU (15.94)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  # of response codes = 1
+2026-10-14 17:16:51,572 INFO  codeValue = C67255
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_95
+2026-10-14 17:16:51,572 INFO  Property name: LBSPEC (15.95)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_96
+2026-10-14 17:16:51,572 INFO  Property name: LBFAST (15.96)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  # of response codes = 2
+2026-10-14 17:16:51,572 INFO  codeValue = C49487
+2026-10-14 17:16:51,572 INFO  codeValue = C49488
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_97
+2026-10-14 17:16:51,572 INFO  Property name: LBDTC (15.97)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Biomedical Concept: BiomedicalConcept_16 / Monocyte Count in Blood (16)
+2026-10-14 17:16:51,572 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/MONOBLD
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_98
+2026-10-14 17:16:51,572 INFO  Property name: LBTESTCD (16.98)
+2026-10-14 17:16:51,572 INFO  datatype = 
+2026-10-14 17:16:51,572 INFO  Property ID: BiomedicalConceptProperty_99
+2026-10-14 17:16:51,572 INFO  Property name: LBORRES (16.99)
+2026-10-14 17:16:51,572 INFO  datatype = float
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_100
+2026-10-14 17:16:51,573 INFO  Property name: LBORRESU (16.100)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  # of response codes = 1
+2026-10-14 17:16:51,573 INFO  codeValue = C67255
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_101
+2026-10-14 17:16:51,573 INFO  Property name: LBSPEC (16.101)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_102
+2026-10-14 17:16:51,573 INFO  Property name: LBFAST (16.102)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  # of response codes = 2
+2026-10-14 17:16:51,573 INFO  codeValue = C49487
+2026-10-14 17:16:51,573 INFO  codeValue = C49488
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_103
+2026-10-14 17:16:51,573 INFO  Property name: LBDTC (16.103)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  Biomedical Concept: BiomedicalConcept_17 / Eosinophil Count in Blood (17)
+2026-10-14 17:16:51,573 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/EOSBLD
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_104
+2026-10-14 17:16:51,573 INFO  Property name: LBTESTCD (17.104)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_105
+2026-10-14 17:16:51,573 INFO  Property name: LBORRES (17.105)
+2026-10-14 17:16:51,573 INFO  datatype = float
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_106
+2026-10-14 17:16:51,573 INFO  Property name: LBORRESU (17.106)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  # of response codes = 1
+2026-10-14 17:16:51,573 INFO  codeValue = C67255
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_107
+2026-10-14 17:16:51,573 INFO  Property name: LBSPEC (17.107)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_108
+2026-10-14 17:16:51,573 INFO  Property name: LBFAST (17.108)
+2026-10-14 17:16:51,573 INFO  datatype = 
+2026-10-14 17:16:51,573 INFO  # of response codes = 2
+2026-10-14 17:16:51,573 INFO  codeValue = C49487
+2026-10-14 17:16:51,573 INFO  codeValue = C49488
+2026-10-14 17:16:51,573 INFO  Property ID: BiomedicalConceptProperty_109
+2026-10-14 17:16:51,574 INFO  Property name: LBDTC (17.109)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Biomedical Concept: BiomedicalConcept_18 / Basophil Count in Blood (18)
+2026-10-14 17:16:51,574 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/BASOBLD
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_110
+2026-10-14 17:16:51,574 INFO  Property name: LBTESTCD (18.110)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_111
+2026-10-14 17:16:51,574 INFO  Property name: LBORRES (18.111)
+2026-10-14 17:16:51,574 INFO  datatype = float
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_112
+2026-10-14 17:16:51,574 INFO  Property name: LBORRESU (18.112)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  # of response codes = 2
+2026-10-14 17:16:51,574 INFO  codeValue = C67255
+2026-10-14 17:16:51,574 INFO  codeValue = C67452
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_113
+2026-10-14 17:16:51,574 INFO  Property name: LBSPEC (18.113)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_114
+2026-10-14 17:16:51,574 INFO  Property name: LBFAST (18.114)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  # of response codes = 2
+2026-10-14 17:16:51,574 INFO  codeValue = C49487
+2026-10-14 17:16:51,574 INFO  codeValue = C49488
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_115
+2026-10-14 17:16:51,574 INFO  Property name: LBDTC (18.115)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Biomedical Concept: BiomedicalConcept_19 / Sodium Concentration in Urine (19)
+2026-10-14 17:16:51,574 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/SODIUMURIN
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_116
+2026-10-14 17:16:51,574 INFO  Property name: LBTESTCD (19.116)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_117
+2026-10-14 17:16:51,574 INFO  Property name: LBORRES (19.117)
+2026-10-14 17:16:51,574 INFO  datatype = float
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_118
+2026-10-14 17:16:51,574 INFO  Property name: LBORRESU (19.118)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  # of response codes = 3
+2026-10-14 17:16:51,574 INFO  codeValue = C67474
+2026-10-14 17:16:51,574 INFO  codeValue = C67473
+2026-10-14 17:16:51,574 INFO  codeValue = C64387
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_119
+2026-10-14 17:16:51,574 INFO  Property name: LBSPEC (19.119)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_120
+2026-10-14 17:16:51,574 INFO  Property name: LBFAST (19.120)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  # of response codes = 2
+2026-10-14 17:16:51,574 INFO  codeValue = C49487
+2026-10-14 17:16:51,574 INFO  codeValue = C49488
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_121
+2026-10-14 17:16:51,574 INFO  Property name: LBDTC (19.121)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Biomedical Concept: BiomedicalConcept_20 / Potassium Concentration in Urine (20)
+2026-10-14 17:16:51,574 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/KURIN
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_122
+2026-10-14 17:16:51,574 INFO  Property name: LBTESTCD (20.122)
+2026-10-14 17:16:51,574 INFO  datatype = 
+2026-10-14 17:16:51,574 INFO  Property ID: BiomedicalConceptProperty_123
+2026-10-14 17:16:51,574 INFO  Property name: LBORRES (20.123)
+2026-10-14 17:16:51,574 INFO  datatype = float
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_124
+2026-10-14 17:16:51,575 INFO  Property name: LBORRESU (20.124)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  # of response codes = 3
+2026-10-14 17:16:51,575 INFO  codeValue = C67474
+2026-10-14 17:16:51,575 INFO  codeValue = C67473
+2026-10-14 17:16:51,575 INFO  codeValue = C64387
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_125
+2026-10-14 17:16:51,575 INFO  Property name: LBSPEC (20.125)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_126
+2026-10-14 17:16:51,575 INFO  Property name: LBFAST (20.126)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  # of response codes = 2
+2026-10-14 17:16:51,575 INFO  codeValue = C49487
+2026-10-14 17:16:51,575 INFO  codeValue = C49488
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_127
+2026-10-14 17:16:51,575 INFO  Property name: LBDTC (20.127)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  Biomedical Concept: BiomedicalConcept_21 / Chloride Concentration in Serum/Plasma (21)
+2026-10-14 17:16:51,575 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-04-01/datasetspecializations/CLSERPL
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_128
+2026-10-14 17:16:51,575 INFO  Property name: LBTESTCD (21.128)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_129
+2026-10-14 17:16:51,575 INFO  Property name: LBORRES (21.129)
+2026-10-14 17:16:51,575 INFO  datatype = float
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_130
+2026-10-14 17:16:51,575 INFO  Property name: LBORRESU (21.130)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  # of response codes = 3
+2026-10-14 17:16:51,575 INFO  codeValue = C67474
+2026-10-14 17:16:51,575 INFO  codeValue = C67473
+2026-10-14 17:16:51,575 INFO  codeValue = C64387
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_131
+2026-10-14 17:16:51,575 INFO  Property name: LBSPEC (21.131)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_132
+2026-10-14 17:16:51,575 INFO  Property name: LBFAST (21.132)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  # of response codes = 2
+2026-10-14 17:16:51,575 INFO  codeValue = C49487
+2026-10-14 17:16:51,575 INFO  codeValue = C49488
+2026-10-14 17:16:51,575 INFO  Biomedical Concept: BiomedicalConcept_22 / Calcium Concentration in Serum or Plasma (22)
+2026-10-14 17:16:51,575 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/CASERPL
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_133
+2026-10-14 17:16:51,575 INFO  Property name: LBTESTCD (22.133)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_134
+2026-10-14 17:16:51,575 INFO  Property name: LBORRES (22.134)
+2026-10-14 17:16:51,575 INFO  datatype = float
+2026-10-14 17:16:51,575 INFO  Property ID: BiomedicalConceptProperty_135
+2026-10-14 17:16:51,575 INFO  Property name: LBORRESU (22.135)
+2026-10-14 17:16:51,575 INFO  datatype = 
+2026-10-14 17:16:51,575 INFO  # of response codes = 5
+2026-10-14 17:16:51,575 INFO  codeValue = C67015
+2026-10-14 17:16:51,575 INFO  codeValue = C64572
+2026-10-14 17:16:51,575 INFO  codeValue = C64387
+2026-10-14 17:16:51,575 INFO  codeValue = C67473
+2026-10-14 17:16:51,576 INFO  codeValue = C67474
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_136
+2026-10-14 17:16:51,576 INFO  Property name: LBSPEC (22.136)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_137
+2026-10-14 17:16:51,576 INFO  Property name: LBFAST (22.137)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  # of response codes = 2
+2026-10-14 17:16:51,576 INFO  codeValue = C49487
+2026-10-14 17:16:51,576 INFO  codeValue = C49488
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_138
+2026-10-14 17:16:51,576 INFO  Property name: LBDTC (22.138)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  Biomedical Concept: BiomedicalConcept_23 / Phosphate Concentration in Serum or Plasma (23)
+2026-10-14 17:16:51,576 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/PHOSSERPL
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_139
+2026-10-14 17:16:51,576 INFO  Property name: LBTESTCD (23.139)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_140
+2026-10-14 17:16:51,576 INFO  Property name: LBORRES (23.140)
+2026-10-14 17:16:51,576 INFO  datatype = float
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_141
+2026-10-14 17:16:51,576 INFO  Property name: LBORRESU (23.141)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  # of response codes = 4
+2026-10-14 17:16:51,576 INFO  codeValue = C67015
+2026-10-14 17:16:51,576 INFO  codeValue = C64572
+2026-10-14 17:16:51,576 INFO  codeValue = C48508
+2026-10-14 17:16:51,576 INFO  codeValue = C64387
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_142
+2026-10-14 17:16:51,576 INFO  Property name: LBSPEC (23.142)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  Property ID: BiomedicalConceptProperty_143
+2026-10-14 17:16:51,576 INFO  Property name: LBFAST (23.143)
+2026-10-14 17:16:51,576 INFO  datatype = 
+2026-10-14 17:16:51,576 INFO  # of response codes = 2
+2026-10-14 17:16:51,576 INFO  codeValue = C49487
+2026-10-14 17:16:51,576 INFO  codeValue = C49488
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_144
+2026-10-14 17:16:51,577 INFO  Property name: LBDTC (23.144)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  Biomedical Concept: BiomedicalConcept_24 / Urate Concentration in Serum or Plasma (24)
+2026-10-14 17:16:51,577 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/URATESERPL
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_145
+2026-10-14 17:16:51,577 INFO  Property name: LBTESTCD (24.145)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_146
+2026-10-14 17:16:51,577 INFO  Property name: LBORRES (24.146)
+2026-10-14 17:16:51,577 INFO  datatype = float
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_147
+2026-10-14 17:16:51,577 INFO  Property name: LBORRESU (24.147)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  # of response codes = 4
+2026-10-14 17:16:51,577 INFO  codeValue = C67015
+2026-10-14 17:16:51,577 INFO  codeValue = C64572
+2026-10-14 17:16:51,577 INFO  codeValue = C48508
+2026-10-14 17:16:51,577 INFO  codeValue = C64387
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_148
+2026-10-14 17:16:51,577 INFO  Property name: LBSPEC (24.148)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_149
+2026-10-14 17:16:51,577 INFO  Property name: LBFAST (24.149)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  # of response codes = 2
+2026-10-14 17:16:51,577 INFO  codeValue = C49487
+2026-10-14 17:16:51,577 INFO  codeValue = C49488
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_150
+2026-10-14 17:16:51,577 INFO  Property name: LBDTC (24.150)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  Biomedical Concept: BiomedicalConcept_25 / Cholesterol in Serum or Plasma (25)
+2026-10-14 17:16:51,577 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/CHOLSERPL
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_151
+2026-10-14 17:16:51,577 INFO  Property name: LBTESTCD (25.151)
+2026-10-14 17:16:51,577 INFO  datatype = 
+2026-10-14 17:16:51,577 INFO  Property ID: BiomedicalConceptProperty_152
+2026-10-14 17:16:51,578 INFO  Property name: LBORRES (25.152)
+2026-10-14 17:16:51,578 INFO  datatype = float
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_153
+2026-10-14 17:16:51,578 INFO  Property name: LBORRESU (25.153)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  # of response codes = 4
+2026-10-14 17:16:51,578 INFO  codeValue = C67015
+2026-10-14 17:16:51,578 INFO  codeValue = C64572
+2026-10-14 17:16:51,578 INFO  codeValue = C64387
+2026-10-14 17:16:51,578 INFO  codeValue = C48508
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_154
+2026-10-14 17:16:51,578 INFO  Property name: LBSPEC (25.154)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_155
+2026-10-14 17:16:51,578 INFO  Property name: LBFAST (25.155)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  # of response codes = 2
+2026-10-14 17:16:51,578 INFO  codeValue = C49487
+2026-10-14 17:16:51,578 INFO  codeValue = C49488
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_156
+2026-10-14 17:16:51,578 INFO  Property name: LBDTC (25.156)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Biomedical Concept: BiomedicalConcept_26 / Albumin Presence in Urine (26)
+2026-10-14 17:16:51,578 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/ALBURINPRES
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_157
+2026-10-14 17:16:51,578 INFO  Property name: LBTESTCD (26.157)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_158
+2026-10-14 17:16:51,578 INFO  Property name: LBORRES (26.158)
+2026-10-14 17:16:51,578 INFO  datatype = text
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_159
+2026-10-14 17:16:51,578 INFO  Property name: LBSPEC (26.159)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_160
+2026-10-14 17:16:51,578 INFO  Property name: LBFAST (26.160)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  # of response codes = 2
+2026-10-14 17:16:51,578 INFO  codeValue = C49487
+2026-10-14 17:16:51,578 INFO  codeValue = C49488
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_161
+2026-10-14 17:16:51,578 INFO  Property name: LBDTC (26.161)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Biomedical Concept: BiomedicalConcept_27 / Creatinine Concentration in Urine (27)
+2026-10-14 17:16:51,578 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/CREATURIN
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_162
+2026-10-14 17:16:51,578 INFO  Property name: LBTESTCD (27.162)
+2026-10-14 17:16:51,578 INFO  datatype = 
+2026-10-14 17:16:51,578 INFO  Property ID: BiomedicalConceptProperty_163
+2026-10-14 17:16:51,578 INFO  Property name: LBORRES (27.163)
+2026-10-14 17:16:51,579 INFO  datatype = float
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_164
+2026-10-14 17:16:51,579 INFO  Property name: LBORRESU (27.164)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  # of response codes = 4
+2026-10-14 17:16:51,579 INFO  codeValue = C67015
+2026-10-14 17:16:51,579 INFO  codeValue = C64572
+2026-10-14 17:16:51,579 INFO  codeValue = C64387
+2026-10-14 17:16:51,579 INFO  codeValue = C48508
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_165
+2026-10-14 17:16:51,579 INFO  Property name: LBSPEC (27.165)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_166
+2026-10-14 17:16:51,579 INFO  Property name: LBFAST (27.166)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  # of response codes = 2
+2026-10-14 17:16:51,579 INFO  codeValue = C49487
+2026-10-14 17:16:51,579 INFO  codeValue = C49488
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_167
+2026-10-14 17:16:51,579 INFO  Property name: LBDTC (27.167)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  Biomedical Concept: BiomedicalConcept_28 / Specific Gravity in Urine (28)
+2026-10-14 17:16:51,579 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/SPGRAVURIN
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_168
+2026-10-14 17:16:51,579 INFO  Property name: LBTESTCD (28.168)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_169
+2026-10-14 17:16:51,579 INFO  Property name: LBORRES (28.169)
+2026-10-14 17:16:51,579 INFO  datatype = float
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_170
+2026-10-14 17:16:51,579 INFO  Property name: LBSPEC (28.170)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,579 INFO  Property ID: BiomedicalConceptProperty_171
+2026-10-14 17:16:51,579 INFO  Property name: LBFAST (28.171)
+2026-10-14 17:16:51,579 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  # of response codes = 2
+2026-10-14 17:16:51,580 INFO  codeValue = C49487
+2026-10-14 17:16:51,580 INFO  codeValue = C49488
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_172
+2026-10-14 17:16:51,580 INFO  Property name: LBDTC (28.172)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Biomedical Concept: BiomedicalConcept_29 / pH concentration in Urine (29)
+2026-10-14 17:16:51,580 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/PHURIN
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_173
+2026-10-14 17:16:51,580 INFO  Property name: LBTESTCD (29.173)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_174
+2026-10-14 17:16:51,580 INFO  Property name: LBORRES (29.174)
+2026-10-14 17:16:51,580 INFO  datatype = float
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_175
+2026-10-14 17:16:51,580 INFO  Property name: LBSPEC (29.175)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_176
+2026-10-14 17:16:51,580 INFO  Property name: LBFAST (29.176)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  # of response codes = 2
+2026-10-14 17:16:51,580 INFO  codeValue = C49487
+2026-10-14 17:16:51,580 INFO  codeValue = C49488
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_177
+2026-10-14 17:16:51,580 INFO  Property name: LBDTC (29.177)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Biomedical Concept: BiomedicalConcept_30 / Protein Presence in Urine (30)
+2026-10-14 17:16:51,580 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/PROTURINPRES
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_178
+2026-10-14 17:16:51,580 INFO  Property name: LBTESTCD (30.178)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_179
+2026-10-14 17:16:51,580 INFO  Property name: LBORRES (30.179)
+2026-10-14 17:16:51,580 INFO  datatype = text
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_180
+2026-10-14 17:16:51,580 INFO  Property name: LBSPEC (30.180)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_181
+2026-10-14 17:16:51,580 INFO  Property name: LBFAST (30.181)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  # of response codes = 2
+2026-10-14 17:16:51,580 INFO  codeValue = C49487
+2026-10-14 17:16:51,580 INFO  codeValue = C49488
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_182
+2026-10-14 17:16:51,580 INFO  Property name: LBDTC (30.182)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Biomedical Concept: BiomedicalConcept_31 / Plasma Equivalent Glucose (31)
+2026-10-14 17:16:51,580 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/GLUCPE
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_183
+2026-10-14 17:16:51,580 INFO  Property name: LBTESTCD (31.183)
+2026-10-14 17:16:51,580 INFO  datatype = 
+2026-10-14 17:16:51,580 INFO  Property ID: BiomedicalConceptProperty_184
+2026-10-14 17:16:51,581 INFO  Property name: LBORRES (31.184)
+2026-10-14 17:16:51,581 INFO  datatype = float
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_185
+2026-10-14 17:16:51,581 INFO  Property name: LBORRESU (31.185)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  # of response codes = 3
+2026-10-14 17:16:51,581 INFO  codeValue = C67015
+2026-10-14 17:16:51,581 INFO  codeValue = C42576
+2026-10-14 17:16:51,581 INFO  codeValue = C64387
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_186
+2026-10-14 17:16:51,581 INFO  Property name: LBSPEC (31.186)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_187
+2026-10-14 17:16:51,581 INFO  Property name: LBMETHOD (31.187)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_188
+2026-10-14 17:16:51,581 INFO  Property name: LBFAST (31.188)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  # of response codes = 2
+2026-10-14 17:16:51,581 INFO  codeValue = C49487
+2026-10-14 17:16:51,581 INFO  codeValue = C49488
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_189
+2026-10-14 17:16:51,581 INFO  Property name: LBDTC (31.189)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_190
+2026-10-14 17:16:51,581 INFO  Property name: SPDEVID (31.190)
+2026-10-14 17:16:51,581 INFO  datatype = text
+2026-10-14 17:16:51,581 INFO  Biomedical Concept: BiomedicalConcept_32 / Ketone Presence in Urine (32)
+2026-10-14 17:16:51,581 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/KETONESURINPRES
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_191
+2026-10-14 17:16:51,581 INFO  Property name: LBTESTCD (32.191)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_192
+2026-10-14 17:16:51,581 INFO  Property name: LBORRES (32.192)
+2026-10-14 17:16:51,581 INFO  datatype = text
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_193
+2026-10-14 17:16:51,581 INFO  Property name: LBSPEC (32.193)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_194
+2026-10-14 17:16:51,581 INFO  Property name: LBFAST (32.194)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  # of response codes = 2
+2026-10-14 17:16:51,581 INFO  codeValue = C49487
+2026-10-14 17:16:51,581 INFO  codeValue = C49488
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_195
+2026-10-14 17:16:51,581 INFO  Property name: LBDTC (32.195)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Biomedical Concept: BiomedicalConcept_33 / Bilirubin Presence in Urine (33)
+2026-10-14 17:16:51,581 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/BILIURINPRES
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_196
+2026-10-14 17:16:51,581 INFO  Property name: LBTESTCD (33.196)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_197
+2026-10-14 17:16:51,581 INFO  Property name: LBORRES (33.197)
+2026-10-14 17:16:51,581 INFO  datatype = text
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_198
+2026-10-14 17:16:51,581 INFO  Property name: LBSPEC (33.198)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_199
+2026-10-14 17:16:51,581 INFO  Property name: LBFAST (33.199)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  # of response codes = 2
+2026-10-14 17:16:51,581 INFO  codeValue = C49487
+2026-10-14 17:16:51,581 INFO  codeValue = C49488
+2026-10-14 17:16:51,581 INFO  Property ID: BiomedicalConceptProperty_200
+2026-10-14 17:16:51,581 INFO  Property name: LBDTC (33.200)
+2026-10-14 17:16:51,581 INFO  datatype = 
+2026-10-14 17:16:51,581 INFO  Biomedical Concept: BiomedicalConcept_34 / Urobilinogen Concentration in Urine (34)
+2026-10-14 17:16:51,582 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/UROBILURIN
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_201
+2026-10-14 17:16:51,582 INFO  Property name: LBTESTCD (34.201)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_202
+2026-10-14 17:16:51,582 INFO  Property name: LBORRES (34.202)
+2026-10-14 17:16:51,582 INFO  datatype = float
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_203
+2026-10-14 17:16:51,582 INFO  Property name: LBORRESU (34.203)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  # of response codes = 3
+2026-10-14 17:16:51,582 INFO  codeValue = C96599
+2026-10-14 17:16:51,582 INFO  codeValue = C67015
+2026-10-14 17:16:51,582 INFO  codeValue = C48508
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_204
+2026-10-14 17:16:51,582 INFO  Property name: LBSPEC (34.204)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_205
+2026-10-14 17:16:51,582 INFO  Property name: LBFAST (34.205)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  # of response codes = 2
+2026-10-14 17:16:51,582 INFO  codeValue = C49487
+2026-10-14 17:16:51,582 INFO  codeValue = C49488
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_206
+2026-10-14 17:16:51,582 INFO  Property name: LBDTC (34.206)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Biomedical Concept: BiomedicalConcept_35 / Urobilinogen Presence in Urine (35)
+2026-10-14 17:16:51,582 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/UROBILURINPRES
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_207
+2026-10-14 17:16:51,582 INFO  Property name: LBTESTCD (35.207)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_208
+2026-10-14 17:16:51,582 INFO  Property name: LBORRES (35.208)
+2026-10-14 17:16:51,582 INFO  datatype = text
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_209
+2026-10-14 17:16:51,582 INFO  Property name: LBSPEC (35.209)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_210
+2026-10-14 17:16:51,582 INFO  Property name: LBFAST (35.210)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  # of response codes = 2
+2026-10-14 17:16:51,582 INFO  codeValue = C49487
+2026-10-14 17:16:51,582 INFO  codeValue = C49488
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_211
+2026-10-14 17:16:51,582 INFO  Property name: LBDTC (35.211)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Activity id = Activity_21 - label = HbA1c - description = HbA1c
+2026-10-14 17:16:51,582 INFO  Biomedical Concept: BiomedicalConcept_36 / Hemoglobin A1C Concentration in Blood (36)
+2026-10-14 17:16:51,582 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2025-07-01/datasetspecializations/HBA1CBLD
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_212
+2026-10-14 17:16:51,582 INFO  Property name: LBTESTCD (36.212)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_213
+2026-10-14 17:16:51,582 INFO  Property name: LBORRES (36.213)
+2026-10-14 17:16:51,582 INFO  datatype = float
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_214
+2026-10-14 17:16:51,582 INFO  Property name: LBORRESU (36.214)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  # of response codes = 1
+2026-10-14 17:16:51,582 INFO  codeValue = C64783
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_215
+2026-10-14 17:16:51,582 INFO  Property name: LBSPEC (36.215)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  Property ID: BiomedicalConceptProperty_216
+2026-10-14 17:16:51,582 INFO  Property name: LBFAST (36.216)
+2026-10-14 17:16:51,582 INFO  datatype = 
+2026-10-14 17:16:51,582 INFO  # of response codes = 2
+2026-10-14 17:16:51,582 INFO  codeValue = C49487
+2026-10-14 17:16:51,582 INFO  codeValue = C49488
+2026-10-14 17:16:51,583 INFO  Property ID: BiomedicalConceptProperty_217
+2026-10-14 17:16:51,583 INFO  Property name: LBDTC (36.217)
+2026-10-14 17:16:51,583 INFO  datatype = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_22 - label = Pregnancy Test (Female patients of childbearing potential only) - description = Pregnancy Tests
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_23 - label = FSH (Female patients only) - description = Follicle-stimulating hormone
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_24 - label = Ethanol testing - description = Ethanol testing
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_25 - label = Urine Drug Screen - description = Urine Drug Screen
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_26 - label = PK (Glucagon) - description = PK (Glucagon)
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_27 - label = Plasma Glucose for PD - description = Plasma Glucose for PD
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_28 - label = Genetic Sample (stored) - description = Genetic Sample
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_29 - label = Anti-glucagon Antibodies - description = Anti-glucagon antibodies
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_30 - label = Clarke Hypoglycemia Awareness Survey - description = Clarke Hypoglycemia Awareness Survey
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_31 - label = Nasal and Non-nasal Score Quaestionnaire - description = Nasal and Non-nasal Score Quaestionnaire
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_32 - label = Edinburgh Hypoglycemia Scale: Experimental Hypoglycemia - description = Edinburgh Hypoglycemia Scale: Experimental Hypoglycemia
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_37 / Placeholder
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = 
+2026-10-14 17:16:51,583 INFO  Activity id = Activity_34 - label = Weight - description = Weight
+2026-10-14 17:16:51,583 INFO  Biomedical Concept: BiomedicalConcept_1 / Weight (1)
+2026-10-14 17:16:51,583 INFO  Biomedical Concept reference = /mdr/specializations/sdtm/packages/2024-12-16/datasetspecializations/WEIGHT
+2026-10-14 17:16:51,583 INFO  Property ID: BiomedicalConceptProperty_1
+2026-10-14 17:16:51,584 INFO  Property name: VSTESTCD (1.1)
+2026-10-14 17:16:51,584 INFO  datatype = 
+2026-10-14 17:16:51,584 INFO  Property ID: BiomedicalConceptProperty_2
+2026-10-14 17:16:51,584 INFO  Property name: VSORRES (1.2)
+2026-10-14 17:16:51,584 INFO  datatype = float
+2026-10-14 17:16:51,584 INFO  Property ID: BiomedicalConceptProperty_3
+2026-10-14 17:16:51,584 INFO  Property name: VSORRESU (1.3)
+2026-10-14 17:16:51,584 INFO  datatype = 
+2026-10-14 17:16:51,584 INFO  # of response codes = 3
+2026-10-14 17:16:51,584 INFO  codeValue = C48531
+2026-10-14 17:16:51,584 INFO  codeValue = C48155
+2026-10-14 17:16:51,584 INFO  codeValue = C28252
+2026-10-14 17:16:51,584 INFO  Property ID: BiomedicalConceptProperty_4
+2026-10-14 17:16:51,584 INFO  Property name: VSDTC (1.4)
+2026-10-14 17:16:51,584 INFO  datatype = 
+2026-10-14 17:16:51,584 INFO  Activity id = Activity_14 - label = Injection-Site Assessment - description = Injection Site Assessment
+2026-10-14 17:16:51,584 INFO  Activity id = Activity_15 - label = Nasal Inspection - description = Nasal inspection
+2026-10-14 17:16:51,584 INFO  Activity id = Activity_33 - label = Meal - description = Meal
+2026-10-14 17:16:51,584 INFO  # of WhereClauses generated = 0
+2026-10-14 17:16:51,584 INFO  # of ValueList-ItemDefs generated = 0
+2026-10-14 17:16:51,584 INFO  # of ValueList codeLists generated = 0
+2026-10-14 17:16:51,584 INFO  Distinct SDTM domains = []
+2026-10-14 17:16:51,584 INFO  Distinct SDTM variables that need a ValueList = []
+2026-10-14 17:16:51,584 INFO  SDTM classes for domains = 
+2026-10-14 17:16:51,584 INFO  testcdTestCodeListMap = {}
+2026-10-14 17:16:51,584 INFO  # of entries in testcdTestCodeListMap = 0
+2026-10-14 17:16:51,586 INFO  templateCodeListOIDs = []
+2026-10-14 17:16:51,596 INFO  Starting writing to output
+2026-10-14 17:16:51,596 INFO  Starting writing to output
+2026-10-14 17:16:51,617 INFO  Define.xml file reorganized using XSLT and written to: D:\CDISC_Standards\USDM2DefineXML\EliLilly_NCT03421379_Diabetes\define.xml
+2026-10-14 17:16:51,617 INFO  Finished writing to file = D:\CDISC_Standards\USDM2DefineXML\EliLilly_NCT03421379_Diabetes\define.xml - size = 1280
+2026-10-14 17:16:51,837 INFO  HTML file generated: D:\CDISC_Standards\USDM2DefineXML\EliLilly_NCT03421379_Diabetes\define.html
